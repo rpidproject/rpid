@@ -35,4 +35,4 @@ class ColorExtension(Extension):
         md.postprocessors.add('color', self.processor, '_end')
 
 def makeExtension(*args, **kwargs):
-return ColorExtension(*args, **kwargs)
+    return ColorExtension(*args, **kwargs)
