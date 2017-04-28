@@ -13,4 +13,4 @@ pages:
 
 markdown_extensions:
   - admonition
-- osg_markdown.colors
+  - osg_markdown.colors
