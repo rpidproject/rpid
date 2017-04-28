@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "RPID Project", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#rpid-project", 
+            "text": "", 
+            "title": "RPID Project"
+        }, 
+        {
+            "location": "/file/", 
+            "text": "Placeholder", 
+            "title": "Second Level Document Placeholder"
+        }, 
+        {
+            "location": "/file/#placeholder", 
+            "text": "", 
+            "title": "Placeholder"
+        }
+    ]
+}
