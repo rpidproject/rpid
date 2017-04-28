@@ -1,0 +1,16 @@
+site_name: RPID Project
+site_url: https://rpidproject.github.io/rpid
+repo_url: https://github.com/rpidproject/rpid
+theme: readthedocs
+
+extra_css:
+  - css/extra.css
+
+pages:
+- Home: 'index.md'
+- First Level Dir Placeholder:
+  - 'Second Level Document Placeholder': 'file.md'
+
+markdown_extensions:
+  - admonition
+- osg_markdown.colors
