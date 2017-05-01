@@ -2,13 +2,33 @@
     "docs": [
         {
             "location": "/", 
-            "text": "RPID Project", 
+            "text": "RPID Project\n\n\nOverview\n\n\nServices\n\n\n\n\nHandle Service - Development services can be seen at https://handle-dev.grid.iu.edu:8080\n\n\nData Type Registry - Development services can be see at https://dtr-dev.grid.iu.edu:8080\n\n\n\n\nOpen Access for Data Science Researchers\n\n\nInstructions for access go here... \n\n\nArchitectual Diagram\n\n\nInsert pic here.", 
             "title": "Home"
         }, 
         {
             "location": "/#rpid-project", 
             "text": "", 
             "title": "RPID Project"
+        }, 
+        {
+            "location": "/#overview", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/#services", 
+            "text": "Handle Service - Development services can be seen at https://handle-dev.grid.iu.edu:8080  Data Type Registry - Development services can be see at https://dtr-dev.grid.iu.edu:8080", 
+            "title": "Services"
+        }, 
+        {
+            "location": "/#open-access-for-data-science-researchers", 
+            "text": "Instructions for access go here...", 
+            "title": "Open Access for Data Science Researchers"
+        }, 
+        {
+            "location": "/#architectual-diagram", 
+            "text": "Insert pic here.", 
+            "title": "Architectual Diagram"
         }, 
         {
             "location": "/file/", 
