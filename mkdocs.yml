@@ -8,8 +8,8 @@ extra_css:
 
 pages:
 - Home: 'index.md'
-- First Level Dir Placeholder:
-  - 'Second Level Document Placeholder': 'file.md'
+- BiWeekly Meeting Agenda and Minutes:
+  - '11-May-2017 Meeting': '11-May-2017.md'
 
 markdown_extensions:
   - admonition
