@@ -67,6 +67,18 @@
 
     <li class="toctree-l3"><a href="#rpid-meeting-minutes">RPID Meeting Minutes</a></li>
     
+        <ul>
+        
+            <li><a class="toctree-l4" href="#examples">Examples</a></li>
+        
+            <li><a class="toctree-l4" href="#puppetizing">Puppetizing</a></li>
+        
+            <li><a class="toctree-l4" href="#karst-node">Karst Node</a></li>
+        
+            <li><a class="toctree-l4" href="#prefixes">Prefixes</a></li>
+        
+        </ul>
+    
 
     </ul>
                 </li>
@@ -122,6 +134,42 @@
 <li>UAG</li>
 </ul>
 <h1 id="rpid-meeting-minutes">RPID Meeting Minutes</h1>
+<h2 id="examples">Examples</h2>
+<p>Larry created a strawman. Try some examples to actual cases to see how this would work. 
+  Two issues:
+     1. complexity - worked but was complicated 
+     2. Need several instances to create a interesting (usable) environement</p>
+<p>It is easy to confuse DTrecord with this PID kernel strawman. Two metadata schemes that dont fit together. Deal with Typed values. 16 types in strawman. To use these types they need to be documented and described in an understandable way to be used. Need records to apply these to. 
+   * Bridget will do this for a few types of data. 
+   * Robert will try with VMs on Jetstream. 
+   * Gabriele will try with Rice genomic data.
+   * Isuru has tried this with SEED data, will discuss issues encountered on next call. 
+      * When publishing wanted to do per/day per/device in kernal. Could not fit device ID, nothing matched with strawman. 
+At the next call we will do some comparisons to see where issues were encountered. 
+Given this identifier, what can I do next?
+Filtering notion takes presedence. 
+What are the purposes of the handle service? Low-level services, not querying directly but infrastructure.
+Handle service only does one this returns a handle record.</p>
+<h2 id="puppetizing">Puppetizing</h2>
+<p>Bridget had her first discussion. Description of what we're trying to do. 
+Rob will review this consultation and we'll talk about it more before next meeting.
+Can be published to the DTR working group at RDA. </p>
+<h2 id="karst-node">Karst Node</h2>
+<p>Experimental environment
+July before installation will be possible
+AWS instances will not be persistent only for experimentation
+We will keep a dev-instance along with prime instance</p>
+<h2 id="prefixes">Prefixes</h2>
+<p>Use of prefixes with respect to test prefixes
+Clearly indicated prefixes are <em>test</em> prifixes
+Two constraints
+   1. the relation to prefix to handle service is 1:1
+   2. relationship of handles services to prifixes is 1:many
+   3. as long as no one mistakes these for longterm PIDs it is inconsequential 
+Prefix with no or 1 delimiter are global while sub-prifixes with prifixes 2+ from individual service.
+Creating policy statement regarding prefixes. </p>
+<p>Bridget, Rob and Isuru will send slides.</p>
+<h2 id="_1"></h2>
               
             </div>
           </div>

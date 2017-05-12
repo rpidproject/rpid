@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/11-May-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nPrefixes\n\n\nKarst Node\n\n\nWeb Content\n\n\nUAG\n\n\n\n\nRPID Meeting Minutes", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nPrefixes\n\n\nKarst Node\n\n\nWeb Content\n\n\nUAG\n\n\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nLarry created a strawman. Try some examples to actual cases to see how this would work. \n  Two issues:\n     1. complexity - worked but was complicated \n     2. Need several instances to create a interesting (usable) environement\n\n\nIt is easy to confuse DTrecord with this PID kernel strawman. Two metadata schemes that dont fit together. Deal with Typed values. 16 types in strawman. To use these types they need to be documented and described in an understandable way to be used. Need records to apply these to. \n   * Bridget will do this for a few types of data. \n   * Robert will try with VMs on Jetstream. \n   * Gabriele will try with Rice genomic data.\n   * Isuru has tried this with SEED data, will discuss issues encountered on next call. \n      * When publishing wanted to do per/day per/device in kernal. Could not fit device ID, nothing matched with strawman. \nAt the next call we will do some comparisons to see where issues were encountered. \nGiven this identifier, what can I do next?\nFiltering notion takes presedence. \nWhat are the purposes of the handle service? Low-level services, not querying directly but infrastructure.\nHandle service only does one this returns a handle record.\n\n\nPuppetizing\n\n\nBridget had her first discussion. Description of what we're trying to do. \nRob will review this consultation and we'll talk about it more before next meeting.\nCan be published to the DTR working group at RDA. \n\n\nKarst Node\n\n\nExperimental environment\nJuly before installation will be possible\nAWS instances will not be persistent only for experimentation\nWe will keep a dev-instance along with prime instance\n\n\nPrefixes\n\n\nUse of prefixes with respect to test prefixes\nClearly indicated prefixes are \ntest\n prifixes\nTwo constraints\n   1. the relation to prefix to handle service is 1:1\n   2. relationship of handles services to prifixes is 1:many\n   3. as long as no one mistakes these for longterm PIDs it is inconsequential \nPrefix with no or 1 delimiter are global while sub-prifixes with prifixes 2+ from individual service.\nCreating policy statement regarding prefixes. \n\n\nBridget, Rob and Isuru will send slides.", 
             "title": "11-May-2017 Meeting"
         }, 
         {
@@ -44,6 +44,26 @@
             "location": "/11-May-2017/#rpid-meeting-minutes", 
             "text": "", 
             "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/11-May-2017/#examples", 
+            "text": "Larry created a strawman. Try some examples to actual cases to see how this would work. \n  Two issues:\n     1. complexity - worked but was complicated \n     2. Need several instances to create a interesting (usable) environement  It is easy to confuse DTrecord with this PID kernel strawman. Two metadata schemes that dont fit together. Deal with Typed values. 16 types in strawman. To use these types they need to be documented and described in an understandable way to be used. Need records to apply these to. \n   * Bridget will do this for a few types of data. \n   * Robert will try with VMs on Jetstream. \n   * Gabriele will try with Rice genomic data.\n   * Isuru has tried this with SEED data, will discuss issues encountered on next call. \n      * When publishing wanted to do per/day per/device in kernal. Could not fit device ID, nothing matched with strawman. \nAt the next call we will do some comparisons to see where issues were encountered. \nGiven this identifier, what can I do next?\nFiltering notion takes presedence. \nWhat are the purposes of the handle service? Low-level services, not querying directly but infrastructure.\nHandle service only does one this returns a handle record.", 
+            "title": "Examples"
+        }, 
+        {
+            "location": "/11-May-2017/#puppetizing", 
+            "text": "Bridget had her first discussion. Description of what we're trying to do. \nRob will review this consultation and we'll talk about it more before next meeting.\nCan be published to the DTR working group at RDA.", 
+            "title": "Puppetizing"
+        }, 
+        {
+            "location": "/11-May-2017/#karst-node", 
+            "text": "Experimental environment\nJuly before installation will be possible\nAWS instances will not be persistent only for experimentation\nWe will keep a dev-instance along with prime instance", 
+            "title": "Karst Node"
+        }, 
+        {
+            "location": "/11-May-2017/#prefixes", 
+            "text": "Use of prefixes with respect to test prefixes\nClearly indicated prefixes are  test  prifixes\nTwo constraints\n   1. the relation to prefix to handle service is 1:1\n   2. relationship of handles services to prifixes is 1:many\n   3. as long as no one mistakes these for longterm PIDs it is inconsequential \nPrefix with no or 1 delimiter are global while sub-prifixes with prifixes 2+ from individual service.\nCreating policy statement regarding prefixes.   Bridget, Rob and Isuru will send slides.", 
+            "title": "Prefixes"
         }
     ]
 }
