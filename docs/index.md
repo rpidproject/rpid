@@ -15,3 +15,7 @@ Instructions for access go here...
 ## Architectual Diagram
 
 Insert pic here. 
+
+### Communicate With the Project Team
+
+Please feel free to contact the RPID Project Team at rpid-l@iu.edu 
