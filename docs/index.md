@@ -10,8 +10,17 @@ It has become good data practice to use persistent identifiers (PIDs) to identif
 
 ## Open Access for Data Science Researchers
 
-Instructions for access go here... 
+### Usage Policies
+   * The RPID testbed can be used for research, education, non-profit, or pre-competitive use
+   * The RPID testbed assigns only test handles, allowing for exploratory work
+   * Handles assigned by the testbed will be on a project basis, to avoid collisions
+   * Projects interested in using the testbed are strongly advised to join the RPID User Advisory Group
+   * Follow the work at https://github.com/rpidproject.  
+   * Reach us at rpid-l@iu.edu
 
+### Requesting Access
+   * Please contact the RPID working group at rpid-l@iu.edu to request access to the testbed. 
+   
 ## Architectual Diagram
 
 Insert pic here. 
