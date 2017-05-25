@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "RPID Project\n\n\nOverview\n\n\nIt has become good data practice to use persistent identifiers (PIDs) to identify digital data products whether a product is a collection, a file, or an object of some type. Naming solutions for digital data products eventually resolve a PID down to the digital object it identifies, but \nthe current landscape is limited by multiple solutions with weak interoperability, and inconsistent protocols\n for getting from PID to data object. In a world of increasing PID use, we will soon be awash with billions of PIDs that all resolve to data objects using various inconsistent and unpredictable approaches, making it difficult to build higher level services that cross the various approaches. \nWe will stand up a robust PID testbed\n (called the RPID testbed or ?rapid?) to stimulate and enable evaluation of two powerful new complementary outputs of the \nResearch Data Alliance\n (RDA) in PID oriented data management. The testbed is \nresponsive to data driven priorities in science and education\n, specifically as part of the cyberinfrastructure ecosystem that accelerates a broad spectrum of data-intensive research (NSF Director unveils 2016). The advancements developed and tested here we believe have the \ntransformative magnitude to stimulate an entire ecosystem of new discovery services\n for research data.\n\n\nServices\n\n\n\n\nHandle Service - Development services can be seen at https://handle-dev.grid.iu.edu:8080\n\n\nData Type Registry - Development services can be see at https://dtr-dev.grid.iu.edu:8080\n\n\n\n\nOpen Access for Data Science Researchers\n\n\nInstructions for access go here... \n\n\nArchitectual Diagram\n\n\nInsert pic here. \n\n\nCommunicate With the Project Team\n\n\nPlease feel free to contact the RPID Project Team at rpid-l@iu.edu", 
+            "text": "RPID Project\n\n\nOverview\n\n\nIt has become good data practice to use persistent identifiers (PIDs) to identify digital data products whether a product is a collection, a file, or an object of some type. Naming solutions for digital data products eventually resolve a PID down to the digital object it identifies, but \nthe current landscape is limited by multiple solutions with weak interoperability, and inconsistent protocols\n for getting from PID to data object. In a world of increasing PID use, we will soon be awash with billions of PIDs that all resolve to data objects using various inconsistent and unpredictable approaches, making it difficult to build higher level services that cross the various approaches. \nWe will stand up a robust PID testbed\n (called the RPID testbed or ?rapid?) to stimulate and enable evaluation of two powerful new complementary outputs of the \nResearch Data Alliance\n (RDA) in PID oriented data management. The testbed is \nresponsive to data driven priorities in science and education\n, specifically as part of the cyberinfrastructure ecosystem that accelerates a broad spectrum of data-intensive research (NSF Director unveils 2016). The advancements developed and tested here we believe have the \ntransformative magnitude to stimulate an entire ecosystem of new discovery services\n for research data.\n\n\nServices\n\n\n\n\nHandle Service - Development services can be seen at https://handle-dev.grid.iu.edu:8080\n\n\nData Type Registry - Development services can be see at https://dtr-dev.grid.iu.edu:8080\n\n\n\n\nOpen Access for Data Science Researchers\n\n\nUsage Policies\n\n\n\n\nThe RPID testbed can be used for research, education, non-profit, or pre-competitive use\n\n\nThe RPID testbed assigns only test handles, allowing for exploratory work\n\n\nHandles assigned by the testbed will be on a project basis, to avoid collisions\n\n\nProjects interested in using the testbed are strongly advised to join the RPID User Advisory Group\n\n\nFollow the work at https://github.com/rpidproject.  \n\n\nReach us at rpid-l@iu.edu\n\n\n\n\nRequesting Access\n\n\n\n\nPlease contact the RPID working group at rpid-l@iu.edu to request access to the testbed. \n\n\n\n\nArchitectual Diagram\n\n\nInsert pic here. \n\n\nCommunicate With the Project Team\n\n\nPlease feel free to contact the RPID Project Team at rpid-l@iu.edu", 
             "title": "Home"
         }, 
         {
@@ -22,8 +22,18 @@
         }, 
         {
             "location": "/#open-access-for-data-science-researchers", 
-            "text": "Instructions for access go here...", 
+            "text": "", 
             "title": "Open Access for Data Science Researchers"
+        }, 
+        {
+            "location": "/#usage-policies", 
+            "text": "The RPID testbed can be used for research, education, non-profit, or pre-competitive use  The RPID testbed assigns only test handles, allowing for exploratory work  Handles assigned by the testbed will be on a project basis, to avoid collisions  Projects interested in using the testbed are strongly advised to join the RPID User Advisory Group  Follow the work at https://github.com/rpidproject.    Reach us at rpid-l@iu.edu", 
+            "title": "Usage Policies"
+        }, 
+        {
+            "location": "/#requesting-access", 
+            "text": "Please contact the RPID working group at rpid-l@iu.edu to request access to the testbed.", 
+            "title": "Requesting Access"
         }, 
         {
             "location": "/#architectual-diagram", 
