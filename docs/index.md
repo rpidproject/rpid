@@ -6,10 +6,9 @@ It has become good data practice to use persistent identifiers (PIDs) to identif
 
 In this 12+24 month project, **we will stand up and support a robust PID testbed** (called the RPID testbed (pronounced "rapid") to stimulate and enable evaluation of powerful new complementary outputs of the [Research Data Alliance](https://www.rd-alliance.org) (RDA) in PID oriented data management. The testbed is **responsive to data driven priorities in science and education**, specifically as part of the cyberinfrastructure ecosystem that accelerates a broad spectrum of data-intensive research (NSF Director unveils 2016). The advancements developed and tested here we believe have the **transformative magnitude to stimulate an entire ecosystem of new discovery services** for research data.
 
-## Services (current and future)
+## Services (availability expected mid-summer)
    * Handle Service - Development services can be seen at https://handle-dev.grid.iu.edu:8080
    * Data Type Registry - Development services can be see at https://dtr-dev.grid.iu.edu:8080
-   *
    * RDA PID Kernel Information WG profiles - several strawman profiles will be available for experimentation. End of Summer '17
    * RDA Collections WG API. End of Summer '17 
    * RDA PIT API - enhanced to work with PID Kernel Information profile; available as a downloadable SDK. End of Summer '17
