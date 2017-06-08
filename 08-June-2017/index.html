@@ -81,6 +81,10 @@
         
             <li><a class="toctree-l4" href="#uag">UAG</a></li>
         
+            <li><a class="toctree-l4" href="#profiles">Profiles</a></li>
+        
+            <li><a class="toctree-l4" href="#collections-api">Collections API</a></li>
+        
         </ul>
     
 
@@ -135,12 +139,65 @@
 <li>Karst Node</li>
 <li>UAG</li>
 <li>Profiles</li>
+<li>Collections API</li>
 </ul>
 <h1 id="rpid-meeting-minutes">RPID Meeting Minutes</h1>
 <h2 id="examples">Examples</h2>
+<h3 id="rice-genomics">Rice Genomics</h3>
+<ul>
+<li>RDA Adoption Project</li>
+<li>Using a Galaxy Workflow - Linear and Max Projections</li>
+<li>Portal at http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html </li>
+<li>Strawman Profile: http://pragma8.cs.indiana.edu:8080/pragmapit-ext-0.2/pitapi/generic/20.5000.347/rdastrawman</li>
+<li>Kernel Information Profile: https://docs.google.com/document/d/1oU7EVlesXpQkzXmL7Bjfl9LGRGVogCKLmEWLl0SFq1Y/edit</li>
+<li>Profile Identifier, will semantics in the suffix cause issues.</li>
+</ul>
+<h3 id="seadtrain">SEADTrain</h3>
+<ul>
+<li>Started implementation using handle API</li>
+<li>Using 5 MetaData fields</li>
+<li>No extensions to the strawman </li>
+<li>Minting PIDs inside the seadtrain workflow. Using json strings with fields defined in strawman profile. </li>
+<li>Validation from user side is next step.</li>
+<li>Extended API specifying Strawman profile</li>
+<li>30% preformance improvement using json block vs individual handles. </li>
+</ul>
+<h3 id="vm-jetstream">VM JetStream</h3>
+<h3 id="textual-annotations">Textual Annotations</h3>
+<ul>
+<li>Needs handle service - Can use Indiana the dev handle service.</li>
+<li>No real progress most work on Puppetizing.</li>
+</ul>
 <h2 id="puppetizing">Puppetizing</h2>
+<ul>
+<li>Amazon accounts and puppet implementation. </li>
+<li>Collections API should be done by next meeting.</li>
+<li>Finalize and test CTS-URN.</li>
+<li>Puppetization review. </li>
+</ul>
 <h2 id="karst-node">Karst Node</h2>
+<ul>
+<li>Hardware. </li>
+<li>July 5 or Tuesday August.</li>
+</ul>
 <h2 id="uag">UAG</h2>
+<ul>
+<li>Spreadsheet at https://docs.google.com/spreadsheets/d/1hgNNMiBTsWxV26nGfDukZdAa5XiiV-wUQXUeJ5L2fCY/edit#gid=0</li>
+<li>Brief description and what we expect out of members. Rob will write this up before next meeting. </li>
+<li>Need a mix of RDA and non-RDA people in advisory group. </li>
+</ul>
+<h2 id="profiles">Profiles</h2>
+<ul>
+<li>Concentrate on the Strawman profile and not introduce extended profiles under the current proposal.</li>
+</ul>
+<h2 id="collections-api">Collections API</h2>
+<ul>
+<li>Yu can install the Collection API</li>
+<li>Created ~4k objects in each the Collection API and in Handle System</li>
+<li>Very simple test with some preformance measuring</li>
+<li>Batch operations in development and some preformance improvement already implemented</li>
+<li>Goal to attach to a handle service for PID minting, but this is not available yet</li>
+</ul>
               
             </div>
           </div>

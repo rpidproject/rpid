@@ -82,12 +82,12 @@
         }, 
         {
             "location": "/08-June-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\nProfiles\n\n\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\nProfiles\n\n\nCollections API\n\n\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nRice Genomics\n\n\n\n\nRDA Adoption Project\n\n\nUsing a Galaxy Workflow - Linear and Max Projections\n\n\nPortal at http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html \n\n\nStrawman Profile: http://pragma8.cs.indiana.edu:8080/pragmapit-ext-0.2/pitapi/generic/20.5000.347/rdastrawman\n\n\nKernel Information Profile: https://docs.google.com/document/d/1oU7EVlesXpQkzXmL7Bjfl9LGRGVogCKLmEWLl0SFq1Y/edit\n\n\nProfile Identifier, will semantics in the suffix cause issues.\n\n\n\n\nSEADTrain\n\n\n\n\nStarted implementation using handle API\n\n\nUsing 5 MetaData fields\n\n\nNo extensions to the strawman \n\n\nMinting PIDs inside the seadtrain workflow. Using json strings with fields defined in strawman profile. \n\n\nValidation from user side is next step.\n\n\nExtended API specifying Strawman profile\n\n\n30% preformance improvement using json block vs individual handles. \n\n\n\n\nVM JetStream\n\n\nTextual Annotations\n\n\n\n\nNeeds handle service - Can use Indiana the dev handle service.\n\n\nNo real progress most work on Puppetizing.\n\n\n\n\nPuppetizing\n\n\n\n\nAmazon accounts and puppet implementation. \n\n\nCollections API should be done by next meeting.\n\n\nFinalize and test CTS-URN.\n\n\nPuppetization review. \n\n\n\n\nKarst Node\n\n\n\n\nHardware. \n\n\nJuly 5 or Tuesday August.\n\n\n\n\nUAG\n\n\n\n\nSpreadsheet at https://docs.google.com/spreadsheets/d/1hgNNMiBTsWxV26nGfDukZdAa5XiiV-wUQXUeJ5L2fCY/edit#gid=0\n\n\nBrief description and what we expect out of members. Rob will write this up before next meeting. \n\n\nNeed a mix of RDA and non-RDA people in advisory group. \n\n\n\n\nProfiles\n\n\n\n\nConcentrate on the Strawman profile and not introduce extended profiles under the current proposal.\n\n\n\n\nCollections API\n\n\n\n\nYu can install the Collection API\n\n\nCreated ~4k objects in each the Collection API and in Handle System\n\n\nVery simple test with some preformance measuring\n\n\nBatch operations in development and some preformance improvement already implemented\n\n\nGoal to attach to a handle service for PID minting, but this is not available yet", 
             "title": "08-June-2017  Meeting"
         }, 
         {
             "location": "/08-June-2017/#rpid-meeting-agenda-items", 
-            "text": "Examples  Puppetizing  Karst Node  UAG  Profiles", 
+            "text": "Examples  Puppetizing  Karst Node  UAG  Profiles  Collections API", 
             "title": "RPID Meeting Agenda Items"
         }, 
         {
@@ -101,19 +101,49 @@
             "title": "Examples"
         }, 
         {
-            "location": "/08-June-2017/#puppetizing", 
+            "location": "/08-June-2017/#rice-genomics", 
+            "text": "RDA Adoption Project  Using a Galaxy Workflow - Linear and Max Projections  Portal at http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html   Strawman Profile: http://pragma8.cs.indiana.edu:8080/pragmapit-ext-0.2/pitapi/generic/20.5000.347/rdastrawman  Kernel Information Profile: https://docs.google.com/document/d/1oU7EVlesXpQkzXmL7Bjfl9LGRGVogCKLmEWLl0SFq1Y/edit  Profile Identifier, will semantics in the suffix cause issues.", 
+            "title": "Rice Genomics"
+        }, 
+        {
+            "location": "/08-June-2017/#seadtrain", 
+            "text": "Started implementation using handle API  Using 5 MetaData fields  No extensions to the strawman   Minting PIDs inside the seadtrain workflow. Using json strings with fields defined in strawman profile.   Validation from user side is next step.  Extended API specifying Strawman profile  30% preformance improvement using json block vs individual handles.", 
+            "title": "SEADTrain"
+        }, 
+        {
+            "location": "/08-June-2017/#vm-jetstream", 
             "text": "", 
+            "title": "VM JetStream"
+        }, 
+        {
+            "location": "/08-June-2017/#textual-annotations", 
+            "text": "Needs handle service - Can use Indiana the dev handle service.  No real progress most work on Puppetizing.", 
+            "title": "Textual Annotations"
+        }, 
+        {
+            "location": "/08-June-2017/#puppetizing", 
+            "text": "Amazon accounts and puppet implementation.   Collections API should be done by next meeting.  Finalize and test CTS-URN.  Puppetization review.", 
             "title": "Puppetizing"
         }, 
         {
             "location": "/08-June-2017/#karst-node", 
-            "text": "", 
+            "text": "Hardware.   July 5 or Tuesday August.", 
             "title": "Karst Node"
         }, 
         {
             "location": "/08-June-2017/#uag", 
-            "text": "", 
+            "text": "Spreadsheet at https://docs.google.com/spreadsheets/d/1hgNNMiBTsWxV26nGfDukZdAa5XiiV-wUQXUeJ5L2fCY/edit#gid=0  Brief description and what we expect out of members. Rob will write this up before next meeting.   Need a mix of RDA and non-RDA people in advisory group.", 
             "title": "UAG"
+        }, 
+        {
+            "location": "/08-June-2017/#profiles", 
+            "text": "Concentrate on the Strawman profile and not introduce extended profiles under the current proposal.", 
+            "title": "Profiles"
+        }, 
+        {
+            "location": "/08-June-2017/#collections-api", 
+            "text": "Yu can install the Collection API  Created ~4k objects in each the Collection API and in Handle System  Very simple test with some preformance measuring  Batch operations in development and some preformance improvement already implemented  Goal to attach to a handle service for PID minting, but this is not available yet", 
+            "title": "Collections API"
         }
     ]
 }
