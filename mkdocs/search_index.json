@@ -79,6 +79,41 @@
             "location": "/11-May-2017/#prefixes", 
             "text": "Use of prefixes with respect to test prefixes\nClearly indicated prefixes are  test  prifixes\nTwo constraints\n   1. the relation to prefix to handle service is 1:1\n   2. relationship of handles services to prifixes is 1:many\n   3. as long as no one mistakes these for longterm PIDs it is inconsequential \nPrefix with no or 1 delimiter are global while sub-prifixes with prifixes 2+ from individual service.\nCreating policy statement regarding prefixes.   Bridget, Rob and Isuru will send slides.", 
             "title": "Prefixes"
+        }, 
+        {
+            "location": "/08-June-2017/", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG", 
+            "title": "08-June-2017  Meeting"
+        }, 
+        {
+            "location": "/08-June-2017/#rpid-meeting-agenda-items", 
+            "text": "Examples  Puppetizing  Karst Node  UAG", 
+            "title": "RPID Meeting Agenda Items"
+        }, 
+        {
+            "location": "/08-June-2017/#rpid-meeting-minutes", 
+            "text": "", 
+            "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/08-June-2017/#examples", 
+            "text": "", 
+            "title": "Examples"
+        }, 
+        {
+            "location": "/08-June-2017/#puppetizing", 
+            "text": "", 
+            "title": "Puppetizing"
+        }, 
+        {
+            "location": "/08-June-2017/#karst-node", 
+            "text": "", 
+            "title": "Karst Node"
+        }, 
+        {
+            "location": "/08-June-2017/#uag", 
+            "text": "", 
+            "title": "UAG"
         }
     ]
 }
