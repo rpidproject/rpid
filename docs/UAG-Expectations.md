@@ -7,6 +7,7 @@ The RPID project will engage an open User Advisory Group (AUG) to gather feedbac
 ## Who should join the AUG
 
 Anyone interested in the services provided by the RPID testbed should be free to join. These users include but are not limited to:
+
    * Anyone using the RPID Testbed. 
    * Those wishing to provide a Handle service and Data Type Registry. 
    * Researchers wishing to add richer information into thier PIDs. 
