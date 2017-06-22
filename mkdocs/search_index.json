@@ -222,7 +222,7 @@
         }, 
         {
             "location": "/UAG-Expectations/", 
-            "text": "User Advisory Group Expectations\n\n\nIntroduction\n\n\nThe RPID project will engage an open User Advisory Group (AUG) to gather feedback and to clarify usage patterns and needs. \n\n\nWho should join the AUG\n\n\nAnyone interested in the services provided by the RPID testbed should be free to join. These users include but are not limited to:\n   * Anyone using the RPID Testbed. \n   * Those wishing to provide a Handle service and Data Type Registry. \n   * Researchers wishing to add richer information into thier PIDs. \n   * Those exploring the strawman profile for implementation.\n   * Those interested from the RDA PID WG, Data Fabric WG, and other WGs.\n\n\nExpectations\n\n\n\n\nTo attend 2 meeting over the next year to give feedback to the RPID Team. These will be held in a virtual environment at a convenient time for all US timezones.\n\n\nTo email any feedback or issues while using the RPID tools to rpid-l@list.iu.edu\n\n\nShare thier PID data needs for the institution, project, or collaboration with the RPID Team. \n\n\n\n\nRPID UAG Organizers\n\n\n\n\nRobert McDonald\n\n\nRob Quick", 
+            "text": "User Advisory Group Expectations\n\n\nIntroduction\n\n\nThe RPID project will engage an open User Advisory Group (AUG) to gather feedback and to clarify usage patterns and needs. \n\n\nWho should join the AUG\n\n\nAnyone interested in the services provided by the RPID testbed should be free to join. These users include but are not limited to:\n\n\n\n\nAnyone using the RPID Testbed. \n\n\nThose wishing to provide a Handle service and Data Type Registry. \n\n\nResearchers wishing to add richer information into thier PIDs. \n\n\nThose exploring the strawman profile for implementation.\n\n\nThose interested from the RDA PID WG, Data Fabric WG, and other WGs.\n\n\n\n\nExpectations\n\n\n\n\nTo attend 2 meeting over the next year to give feedback to the RPID Team. These will be held in a virtual environment at a convenient time for all US timezones.\n\n\nTo email any feedback or issues while using the RPID tools to rpid-l@list.iu.edu\n\n\nShare thier PID data needs for the institution, project, or collaboration with the RPID Team. \n\n\n\n\nRPID UAG Organizers\n\n\n\n\nRobert McDonald\n\n\nRob Quick", 
             "title": "Expectations"
         }, 
         {
@@ -237,7 +237,7 @@
         }, 
         {
             "location": "/UAG-Expectations/#who-should-join-the-aug", 
-            "text": "Anyone interested in the services provided by the RPID testbed should be free to join. These users include but are not limited to:\n   * Anyone using the RPID Testbed. \n   * Those wishing to provide a Handle service and Data Type Registry. \n   * Researchers wishing to add richer information into thier PIDs. \n   * Those exploring the strawman profile for implementation.\n   * Those interested from the RDA PID WG, Data Fabric WG, and other WGs.", 
+            "text": "Anyone interested in the services provided by the RPID testbed should be free to join. These users include but are not limited to:   Anyone using the RPID Testbed.   Those wishing to provide a Handle service and Data Type Registry.   Researchers wishing to add richer information into thier PIDs.   Those exploring the strawman profile for implementation.  Those interested from the RDA PID WG, Data Fabric WG, and other WGs.", 
             "title": "Who should join the AUG"
         }, 
         {
