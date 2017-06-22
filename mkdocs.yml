@@ -10,7 +10,8 @@ pages:
 - Home: 'index.md'
 - BiWeekly Meeting Agenda and Minutes:
   - '11-May-2017 Meeting': '11-May-2017.md'
-  - '08-June-2017  Meeting': '08-June-2017.md'
+  - '08-June-2017 Meeting': '08-June-2017.md'
+  - '22-June-2017 Meeting': '22-June-2017.md'
 
 markdown_extensions:
   - admonition
