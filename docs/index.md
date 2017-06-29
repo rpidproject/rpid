@@ -28,7 +28,7 @@ In this 12+24 month project, **we will stand up and support a robust PID testbed
    
 ## Architectual Diagram
 
- <img src="https://github.com/rpidproject/rpid/blob/master/docs/RPIDServiceDiagram.png" width='630' height='390'  /><br>
+![alt text](https://github.com/rpidproject/rpid/blob/master/docs/RPIDServiceDiagram.png "RPID Arcitectual Diagram")
 
 ### Communicate With the Project Team
 
