@@ -1,24 +1,24 @@
-# User Advisory Group Expectations
+# Robust Persistent Identification of Data (RPID) User Advisory Group Expectations
 
 ## Introduction
 
-The RPID project will engage an open User Advisory Group (AUG) to gather feedback and to clarify usage patterns and needs. 
+The RPID project seeks to engage members in an open User Advisory Group (AUG) of members of the community who can provide needs feedback and usage patterns of the PID testbed that the the project is deploying.   
 
 ## Who should join the AUG
 
-Anyone interested in the services provided by the RPID testbed should be free to join. These users include but are not limited to:
+Anyone interested in the services provided by the RPID testbed can join. These users include but are not limited to:
 
-   * Anyone using the RPID Testbed. 
-   * Those wishing to provide a Handle service and Data Type Registry. 
-   * Researchers wishing to add richer information into thier PIDs. 
-   * Those exploring the strawman profile for implementation.
-   * Those interested from the RDA PID WG, Data Fabric WG, and other WGs.
+   * Anyone using the RPID Testbed. RPID testbed is open to research, education, non-profit, and pre-competitive use.
+   * Those wishing to provision a Handle service and Data Type Registry of their own and want to share knowledge
+   * Researchers wishing to add richer information into their PIDs
+   * Those exploring the strawman Kernel Information profile for their use
+   * Those interested in the project and who feel they are something useful to contribute
    
 ## Expectations
-   * To attend 2 meeting over the next year to give feedback to the RPID Team. These will be held in a virtual environment at a convenient time for all US timezones.
-   * To email any feedback or issues while using the RPID tools to rpid-l@list.iu.edu
-   * Share thier PID data needs for the institution, project, or collaboration with the RPID Team. 
+   * Members are expected to attend two meetings over the next year to give feedback to the RPID Team. These will be held in a virtual environment at a convenient time for all US timezones.
+   * Members commit to emailing any feedback or issues while using the RPID tools to rpid-l@list.iu.edu
+   * Members commit to sharing their PID data interest or needs with the RPID Team. 
    
 ## RPID UAG Organizers
-   * Robert McDonald
-   * Rob Quick
+   * Robert McDonald, Indiana University
+   * Rob Quick, Indiana University 
