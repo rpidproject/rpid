@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/06-July-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees:\n\n\nApologies: Beth\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\nPRAGMA/Rice Genomics\n\n\nJetstream VMs\n\n\nClassics\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nArrived but did not make the maintenance window yesterday. \n\n\nWill be installed August 1. \n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees: Yu, Gabriel, Isuru, Rob\n\n\nApologies: Beth\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nPreparing for a tutorial and ESIP tutorial in late July. \n\n\n\n\nPRAGMA/Rice Genomics\n\n\n\n\n14 Data Bundle published.\n\n\nEach data object within the bundle also has a PID. \n\n\n\n\nJetstream VMs\n\n\n\n\nCreating own version of what Bridget has done. \n\n\nExpect possibly something next meeting. \n\n\n\n\nClassics\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nArrived but did not make the maintenance window yesterday. \n\n\nWill be installed August 1. \n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/", 
             "title": "06-July-2017 Meeting"
         }, 
         {
@@ -56,9 +56,9 @@
             "title": "RPID Meeting Agenda Items"
         }, 
         {
-            "location": "/06-July-2017/#attendees", 
+            "location": "/06-July-2017/#attendees-yu-gabriel-isuru-rob", 
             "text": "", 
-            "title": "Attendees:"
+            "title": "Attendees: Yu, Gabriel, Isuru, Rob"
         }, 
         {
             "location": "/06-July-2017/#apologies-beth", 
@@ -77,17 +77,17 @@
         }, 
         {
             "location": "/06-July-2017/#seadtrain", 
-            "text": "", 
+            "text": "Preparing for a tutorial and ESIP tutorial in late July.", 
             "title": "SEADTrain"
         }, 
         {
             "location": "/06-July-2017/#pragmarice-genomics", 
-            "text": "", 
+            "text": "14 Data Bundle published.  Each data object within the bundle also has a PID.", 
             "title": "PRAGMA/Rice Genomics"
         }, 
         {
             "location": "/06-July-2017/#jetstream-vms", 
-            "text": "", 
+            "text": "Creating own version of what Bridget has done.   Expect possibly something next meeting.", 
             "title": "Jetstream VMs"
         }, 
         {
