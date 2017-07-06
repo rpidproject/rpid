@@ -11,7 +11,7 @@ Anyone interested in the services provided by the RPID testbed can join. These u
    * Anyone using the RPID Testbed. RPID testbed is open to research, education, non-profit, and pre-competitive use.
    * Those wishing to provision a Handle service and Data Type Registry of their own and want to share knowledge
    * Researchers wishing to add richer information into their PIDs
-   * Those exploring the strawman Kernel Information profile for their use
+   * Those exploring the strawman PID Kernel Information profile for their use (maybe add link to the strawman and other mappings that we might share)
    * Those interested in the project and who feel they are something useful to contribute
    
 ## Expectations
