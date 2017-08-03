@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/03-August-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nUpdate on the SEADTrain Tutorial at ESIP. \n\n\n\n\nPRAGMA/Rice Genomics\n\n\nJetstream VMs\n\n\nClassics\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nInstalled August 1st, transistion will happen to \"production testbed\" instance in the next two weeks.\n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nUpdate on the SEADTrain Tutorial at ESIP. \n\n\n\n\nPRAGMA/Rice Genomics\n\n\nJetstream VMs\n\n\nClassics\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nInstalled August 1st, transistion will happen to \"production testbed\" instance in the next two weeks.\n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/\n\n\n\n\nCTS/Handle Solution\n\n\n\n\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
             "title": "03-August-2017"
         }, 
         {
@@ -109,6 +109,11 @@
             "location": "/03-August-2017/#uag", 
             "text": "At https://rpidproject.github.io/rpid/UAG-Expectations/", 
             "title": "UAG"
+        }, 
+        {
+            "location": "/03-August-2017/#ctshandle-solution", 
+            "text": "https://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
+            "title": "CTS/Handle Solution"
         }, 
         {
             "location": "/20-July-2017/", 
