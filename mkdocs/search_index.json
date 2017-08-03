@@ -111,6 +111,71 @@
             "title": "UAG"
         }, 
         {
+            "location": "/20-July-2017/", 
+            "text": "RPID Meeting Agenda Items - 20-July-2017\n\n\nAttendees: Yu, Gabriel, Isuru, Beth, Bridget, Richard, Robert\n\n\nApologies: Rob\n\n\nRPID Meeting Minutes\n\n\nPuppetizing\n\n\n*Bridget thinks that the puppet scripts that she has available now might be usable for installation of IU machine if in August\n\n\nPID API\n\n\n\n\nGabriel is most familiar with this already\n\n\nWhat is needed to PID API to make it compatible with the kernel information?\n\n\nPID API is kernel information aware - used extensions to retrieve profile definition\n\n\nBeth thinks we need to review that extension\n\n\nYu - there is functionality to assign PID\n\n\nBridget we need code available for puppet setup and for those code extensions to be reviewed - these are in D2I Github now (https://github.com/Data-to-Insight-Center/RDA-PRAGMA-Data-Service/tree/master/pragmapit-ext/src/main/javadoc)\n\n\nIsuru says we can fork the extension code into the RPID Github so Bridget can get to it\n\n\nBridget  - Can we tag original code and tag changes and submit back to RDA as proposed revision?\n\n\nBeth - write small client to try out the API - look at what is research data and what is not? Need requirements for this before we move on it.\n\n\nIsuru - PID enabled layer on top of handle system APIs and client - we need a PID aware strawman layer - \n\n\n\n\nHandle Server\n\n\n\n\nThis is crashing on us and we don't know why\n\n\nHas been down for 3 days now\n\n\nBridget - could run this on Amazon - would need all of the other parts for replication - federation of local handle servers\n\n\nIsuru - will work with Bridget's amazon instance for demo purposes - need to contact RT to see if this can be done for demo tomorrow at 1\n\n\n\n\n\n\nJetstream VMs\n\n\n\n\nRichard Higgins and Robert are working on this - Richard came to meeting today will join us to look at Jetstream PID mapping.\n\n\nRobert will talk to Rob Quick when returns about getting Richard onto Slack and other channels for comm etc.\n\n\n\n\nPRAGMA/Rice Genomics\n\n\n\n\nNo Updates\n\n\n\n\nKarst Node\n\n\n\n\nExpecting August 1 implementation - see Bridget's comments about use of puppet scripts for installation\n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/\n\n\n\n\nAction Items\n\n\n\n\nRob should check on whether puppet scripts will help with server installation in August\n\n\nIsuru should fork code repo so that it is available from D2I git to RPID git\n\n\nYu will take two use cases - provenance and trust - seadtrain use-case - from that he will extract requirements for extensions to PID API - post to slack and get feedback", 
+            "title": "20-July-2017"
+        }, 
+        {
+            "location": "/20-July-2017/#rpid-meeting-agenda-items-20-july-2017", 
+            "text": "", 
+            "title": "RPID Meeting Agenda Items - 20-July-2017"
+        }, 
+        {
+            "location": "/20-July-2017/#attendees-yu-gabriel-isuru-beth-bridget-richard-robert", 
+            "text": "", 
+            "title": "Attendees: Yu, Gabriel, Isuru, Beth, Bridget, Richard, Robert"
+        }, 
+        {
+            "location": "/20-July-2017/#apologies-rob", 
+            "text": "", 
+            "title": "Apologies: Rob"
+        }, 
+        {
+            "location": "/20-July-2017/#rpid-meeting-minutes", 
+            "text": "", 
+            "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/20-July-2017/#puppetizing", 
+            "text": "*Bridget thinks that the puppet scripts that she has available now might be usable for installation of IU machine if in August", 
+            "title": "Puppetizing"
+        }, 
+        {
+            "location": "/20-July-2017/#pid-api", 
+            "text": "Gabriel is most familiar with this already  What is needed to PID API to make it compatible with the kernel information?  PID API is kernel information aware - used extensions to retrieve profile definition  Beth thinks we need to review that extension  Yu - there is functionality to assign PID  Bridget we need code available for puppet setup and for those code extensions to be reviewed - these are in D2I Github now (https://github.com/Data-to-Insight-Center/RDA-PRAGMA-Data-Service/tree/master/pragmapit-ext/src/main/javadoc)  Isuru says we can fork the extension code into the RPID Github so Bridget can get to it  Bridget  - Can we tag original code and tag changes and submit back to RDA as proposed revision?  Beth - write small client to try out the API - look at what is research data and what is not? Need requirements for this before we move on it.  Isuru - PID enabled layer on top of handle system APIs and client - we need a PID aware strawman layer -", 
+            "title": "PID API"
+        }, 
+        {
+            "location": "/20-July-2017/#handle-server", 
+            "text": "This is crashing on us and we don't know why  Has been down for 3 days now  Bridget - could run this on Amazon - would need all of the other parts for replication - federation of local handle servers  Isuru - will work with Bridget's amazon instance for demo purposes - need to contact RT to see if this can be done for demo tomorrow at 1", 
+            "title": "Handle Server"
+        }, 
+        {
+            "location": "/20-July-2017/#jetstream-vms", 
+            "text": "Richard Higgins and Robert are working on this - Richard came to meeting today will join us to look at Jetstream PID mapping.  Robert will talk to Rob Quick when returns about getting Richard onto Slack and other channels for comm etc.", 
+            "title": "Jetstream VMs"
+        }, 
+        {
+            "location": "/20-July-2017/#pragmarice-genomics", 
+            "text": "No Updates", 
+            "title": "PRAGMA/Rice Genomics"
+        }, 
+        {
+            "location": "/20-July-2017/#karst-node", 
+            "text": "Expecting August 1 implementation - see Bridget's comments about use of puppet scripts for installation", 
+            "title": "Karst Node"
+        }, 
+        {
+            "location": "/20-July-2017/#uag", 
+            "text": "At https://rpidproject.github.io/rpid/UAG-Expectations/", 
+            "title": "UAG"
+        }, 
+        {
+            "location": "/20-July-2017/#action-items", 
+            "text": "Rob should check on whether puppet scripts will help with server installation in August  Isuru should fork code repo so that it is available from D2I git to RPID git  Yu will take two use cases - provenance and trust - seadtrain use-case - from that he will extract requirements for extensions to PID API - post to slack and get feedback", 
+            "title": "Action Items"
+        }, 
+        {
             "location": "/06-July-2017/", 
             "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees: Yu, Gabriel, Isuru, Rob\n\n\nApologies: Beth\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nPreparing for a tutorial and ESIP tutorial in late July. \n\n\n\n\nPRAGMA/Rice Genomics\n\n\n\n\n14 Data Bundle published.\n\n\nEach data object within the bundle also has a PID. \n\n\n\n\nJetstream VMs\n\n\n\n\nCreating own version of what Bridget has done. \n\n\nExpect possibly something next meeting. \n\n\n\n\nClassics\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nArrived but did not make the maintenance window yesterday. \n\n\nWill be installed August 1. \n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/", 
             "title": "06-July-2017 Meeting"
