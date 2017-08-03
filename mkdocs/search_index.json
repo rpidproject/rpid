@@ -47,8 +47,68 @@
         }, 
         {
             "location": "/03-August-2017/", 
-            "text": "Placeholder", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nUpdate on the SEADTrain Tutorial at ESIP. \n\n\n\n\nPRAGMA/Rice Genomics\n\n\nJetstream VMs\n\n\nClassics\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nInstalled August 1st, transistion will happen to \"production testbed\" instance in the next two weeks.\n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/", 
             "title": "03-August-2017"
+        }, 
+        {
+            "location": "/03-August-2017/#rpid-meeting-agenda-items", 
+            "text": "Examples  Puppetizing  Karst Node  UAG", 
+            "title": "RPID Meeting Agenda Items"
+        }, 
+        {
+            "location": "/03-August-2017/#attendees", 
+            "text": "", 
+            "title": "Attendees:"
+        }, 
+        {
+            "location": "/03-August-2017/#apologies", 
+            "text": "", 
+            "title": "Apologies:"
+        }, 
+        {
+            "location": "/03-August-2017/#rpid-meeting-minutes", 
+            "text": "", 
+            "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/03-August-2017/#examples", 
+            "text": "", 
+            "title": "Examples"
+        }, 
+        {
+            "location": "/03-August-2017/#seadtrain", 
+            "text": "Update on the SEADTrain Tutorial at ESIP.", 
+            "title": "SEADTrain"
+        }, 
+        {
+            "location": "/03-August-2017/#pragmarice-genomics", 
+            "text": "", 
+            "title": "PRAGMA/Rice Genomics"
+        }, 
+        {
+            "location": "/03-August-2017/#jetstream-vms", 
+            "text": "", 
+            "title": "Jetstream VMs"
+        }, 
+        {
+            "location": "/03-August-2017/#classics", 
+            "text": "", 
+            "title": "Classics"
+        }, 
+        {
+            "location": "/03-August-2017/#puppetizing", 
+            "text": "", 
+            "title": "Puppetizing"
+        }, 
+        {
+            "location": "/03-August-2017/#karst-node", 
+            "text": "Installed August 1st, transistion will happen to \"production testbed\" instance in the next two weeks.", 
+            "title": "Karst Node"
+        }, 
+        {
+            "location": "/03-August-2017/#uag", 
+            "text": "At https://rpidproject.github.io/rpid/UAG-Expectations/", 
+            "title": "UAG"
         }, 
         {
             "location": "/06-July-2017/", 
