@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/03-August-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nUpdate on the SEADTrain Tutorial at ESIP. \n\n\n\n\nPRAGMA/Rice Genomics\n\n\nJetstream VMs\n\n\nClassics\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nInstalled August 1st, transistion will happen to \"production testbed\" instance in the next two weeks.\n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/\n\n\n\n\nCTS/Handle Solution\n\n\n\n\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nUpdate on the SEADTrain Tutorial at ESIP. \n\n\nNothing new since last meeting outside of the workshop. \n\n\n\n\nPRAGMA/Rice Genomics\n\n\nJetstream VMs\n\n\n\n\nRobert will introduce Rob to Richard Higgins.\n\n\nRob will set up a meeting with Robert, Richard, Jeremy (others from JetStream?), and Rob. \n\n\nSet up a touchbase for IU for the testbed. We will have local meetings on Wednesday's. \n\n\n\n\nClassics\n\n\n\n\nCTS Handle Solution - Connect the RPID infrastructures to testbed. But with Bridget's departure this may not happen. There is not a known replacement. And likely may have to move to another institution. \n\n\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md \n\n\nDistributed to interested parties. All reception has been positive. Up to the community to adopt if they are interested and someone to take ownership. Up to someone within the community to take ownership. \n\n\nNevin is interested. \n\n\nPeople feel this is a good solution. \n\n\nBridget and Larry need to set up a formal way to get people engaged. \n\n\n\n\nPuppetizing\n\n\n\n\nIU will try to install new Karst Condo node using this puppet installations.\n\n\nThree services, DTR, Handle, and Collection Service. Does not include PID API. \n\n\nClose to ready, but not quite there. \n\n\nBridget will send the step-by-step as soon as they are ready. \n\n\n\n\nKarst Node\n\n\n\n\nInstalled August 1st, transistion will happen to \"production testbed\" instance in the next two weeks.\n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/\n\n\nWill discuss at next IU RPID meeting. \n\n\n\n\nCTS/Handle Solution\n\n\n\n\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
             "title": "03-August-2017"
         }, 
         {
@@ -77,7 +77,7 @@
         }, 
         {
             "location": "/03-August-2017/#seadtrain", 
-            "text": "Update on the SEADTrain Tutorial at ESIP.", 
+            "text": "Update on the SEADTrain Tutorial at ESIP.   Nothing new since last meeting outside of the workshop.", 
             "title": "SEADTrain"
         }, 
         {
@@ -87,17 +87,17 @@
         }, 
         {
             "location": "/03-August-2017/#jetstream-vms", 
-            "text": "", 
+            "text": "Robert will introduce Rob to Richard Higgins.  Rob will set up a meeting with Robert, Richard, Jeremy (others from JetStream?), and Rob.   Set up a touchbase for IU for the testbed. We will have local meetings on Wednesday's.", 
             "title": "Jetstream VMs"
         }, 
         {
             "location": "/03-August-2017/#classics", 
-            "text": "", 
+            "text": "CTS Handle Solution - Connect the RPID infrastructures to testbed. But with Bridget's departure this may not happen. There is not a known replacement. And likely may have to move to another institution.   https://github.com/rpidproject/cts-handles/blob/master/proposal.md   Distributed to interested parties. All reception has been positive. Up to the community to adopt if they are interested and someone to take ownership. Up to someone within the community to take ownership.   Nevin is interested.   People feel this is a good solution.   Bridget and Larry need to set up a formal way to get people engaged.", 
             "title": "Classics"
         }, 
         {
             "location": "/03-August-2017/#puppetizing", 
-            "text": "", 
+            "text": "IU will try to install new Karst Condo node using this puppet installations.  Three services, DTR, Handle, and Collection Service. Does not include PID API.   Close to ready, but not quite there.   Bridget will send the step-by-step as soon as they are ready.", 
             "title": "Puppetizing"
         }, 
         {
@@ -107,7 +107,7 @@
         }, 
         {
             "location": "/03-August-2017/#uag", 
-            "text": "At https://rpidproject.github.io/rpid/UAG-Expectations/", 
+            "text": "At https://rpidproject.github.io/rpid/UAG-Expectations/  Will discuss at next IU RPID meeting.", 
             "title": "UAG"
         }, 
         {
