@@ -47,8 +47,73 @@
         }, 
         {
             "location": "/17-August-2017/", 
-            "text": "Placeholder", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\nPRAGMA/Rice Genomics\n\n\nJetstream VMs\n\n\nClassics\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/\n\n\nWill discuss at next IU RPID meeting. \n\n\n\n\nCTS/Handle Solution\n\n\n\n\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
             "title": "17-August-2017"
+        }, 
+        {
+            "location": "/17-August-2017/#rpid-meeting-agenda-items", 
+            "text": "Examples  Puppetizing  Karst Node  UAG", 
+            "title": "RPID Meeting Agenda Items"
+        }, 
+        {
+            "location": "/17-August-2017/#attendees", 
+            "text": "", 
+            "title": "Attendees:"
+        }, 
+        {
+            "location": "/17-August-2017/#apologies", 
+            "text": "", 
+            "title": "Apologies:"
+        }, 
+        {
+            "location": "/17-August-2017/#rpid-meeting-minutes", 
+            "text": "", 
+            "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/17-August-2017/#examples", 
+            "text": "", 
+            "title": "Examples"
+        }, 
+        {
+            "location": "/17-August-2017/#seadtrain", 
+            "text": "", 
+            "title": "SEADTrain"
+        }, 
+        {
+            "location": "/17-August-2017/#pragmarice-genomics", 
+            "text": "", 
+            "title": "PRAGMA/Rice Genomics"
+        }, 
+        {
+            "location": "/17-August-2017/#jetstream-vms", 
+            "text": "", 
+            "title": "Jetstream VMs"
+        }, 
+        {
+            "location": "/17-August-2017/#classics", 
+            "text": "", 
+            "title": "Classics"
+        }, 
+        {
+            "location": "/17-August-2017/#puppetizing", 
+            "text": "", 
+            "title": "Puppetizing"
+        }, 
+        {
+            "location": "/17-August-2017/#karst-node", 
+            "text": "", 
+            "title": "Karst Node"
+        }, 
+        {
+            "location": "/17-August-2017/#uag", 
+            "text": "At https://rpidproject.github.io/rpid/UAG-Expectations/  Will discuss at next IU RPID meeting.", 
+            "title": "UAG"
+        }, 
+        {
+            "location": "/17-August-2017/#ctshandle-solution", 
+            "text": "https://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
+            "title": "CTS/Handle Solution"
         }, 
         {
             "location": "/03-August-2017/", 
