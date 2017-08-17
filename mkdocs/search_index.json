@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/17-August-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees: Gabriel, Rob, Bridget, Yu, Scott, Larry\n\n\nApologies: Robert\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nUpgrade Interface to use PID. Requirement from the TNRC, software that can get PIDs. \n\n\nDaily updates going smoothly\n\n\nNew channels to get airbox data (TNRC)\n\n\n\n\nPRAGMA/Rice Genomics\n\n\n\n\nNot too much updates. Several domain updates, AIST moved to different location. Data storage replaced. IPs updated. \n\n\n\n\nJetstream VMs\n\n\n\n\nRobert and Rob have scheduled a meeting next Thomas, Jeremy, Scott. \n\n\n\n\nClassics\n\n\n\n\nNo update. Not sure if this will happen in the Persid project. \n\n\nBridget will get in contact to introduce to an interested party. \n\n\nCTS Handles, suggests Nevin to take this project on... Will discuss with Larry about how to proceed.\n\n\n\n\nPuppetizing\n\n\n\n\nBridget supplied ready for testing puppetized installation.\n\n\nNot 100% finished, but good time to get feedback. Some loose ends to wrap up. \n\n\n\n\nKarst Node\n\n\n\n\nWill have login access this afternoon, RHEL6, will work on VMs.\n\n\nPuppet manifests builds and runs Docker-ized. \n\n\nWill be doing testing over the next few weeks and will provide feedback to Bridget. \n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees: Gabriel, Rob, Bridget, Yu, Scott, Larry\n\n\nApologies: Robert\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nUpgrade Interface to use PID. Requirement from the TNRC, software that can get PIDs. \n\n\nDaily updates going smoothly\n\n\nNew channels to get airbox data (TNRC)\n\n\n\n\nPRAGMA/Rice Genomics\n\n\n\n\nNot too much updates. Several domain updates, AIST moved to different location. Data storage replaced. IPs updated. \n\n\n\n\nJetstream VMs\n\n\n\n\nRobert and Rob have scheduled a meeting next Thomas, Jeremy, Scott. \n\n\n\n\nClassics\n\n\n\n\nNo update. Not sure if this will happen in the Persid project. \n\n\nBridget will get in contact to introduce to an interested party. \n\n\nCTS Handles, suggests Nevin to take this project on... Will discuss with Larry about how to proceed.\n\n\n\n\nPuppetizing\n\n\n\n\nBridget supplied ready for testing puppetized installation.\n\n\nNot 100% finished, but good time to get feedback. Some loose ends to wrap up. \n\n\n\n\nKarst Node\n\n\n\n\nWill have login access this afternoon, RHEL6, will work on VMs.\n\n\nPuppet manifests builds and runs Docker-ized. \n\n\nWill be doing testing over the next few weeks and will provide feedback to Bridget. \n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/\n\n\nUAG Spreadsheet", 
             "title": "17-August-2017"
         }, 
         {
@@ -107,7 +107,7 @@
         }, 
         {
             "location": "/17-August-2017/#uag", 
-            "text": "At https://rpidproject.github.io/rpid/UAG-Expectations/", 
+            "text": "At https://rpidproject.github.io/rpid/UAG-Expectations/  UAG Spreadsheet", 
             "title": "UAG"
         }, 
         {
