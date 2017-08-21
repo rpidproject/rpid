@@ -25,11 +25,11 @@ In this 12+24 month project, **we will stand up and support a robust PID testbed
 
 ### Requesting Access
    * Please contact the RPID working group at rpid-l@iu.edu to get started.   You will register your project, be assigned a prefix, and can then start using the services. 
-   
-## Architectual Diagram
-
-![alt text](https://github.com/rpidproject/rpid/blob/master/docs/RPIDServiceDiagram.png)
 
 ### Communicate With the Project Team
 
 Please feel free to contact the RPID Project Team at rpid-l@iu.edu 
+
+### Disclaimer
+
+This material is based upon work supported by the National Science Foundation under Grant No. 1659310. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
