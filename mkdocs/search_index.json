@@ -46,6 +46,76 @@
             "title": "Disclaimer"
         }, 
         {
+            "location": "/31-August-2017/", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nDiscussion of Beth's new document titled-Data object model for RPID and PID Kernel Information projects\n\n\n\n\n\n\nAttendees: Beth, Robert M., Gabriel, Larry, Rob Q,\n\n\nApologies: Bridget\n\n\nRPID Meeting Minutes\n\n\nDiscussion of Beth's document-Data object model for RPID and PID Kernel Information projects\n\n\n\n\nRob Q will put to get hub once we have worked on this in google docs\n\n\n\n\nSEADTrain\n\n\n\n\nPID work is almost done - will text next week\n\n\nBased on yesterday's meeting will add profiles\n\n\n\n\nClassics\n\n\n\n\nBridget metioned CTS URNs and how they connect to the handle system - can go down into individual words in classic texts like The Illiad\n\n\nURNs are not really resolveable\n\n\nBridget will be writing this up before she leaves Tufts\n\n\nSee slack channel for Bridget's update\n\n\n\n\nPRAGMA\n\n\n\n\nno update\n\n\n\n\nJetstream VMs\n\n\n\n\nMeeting yesterday with Jeremy Fischer of Jetstream\n\n\nCan get started with description of vms in openstack \n\n\nRob is starting up allocation so that we can see how those are working\n\n\nWorking on XSEDE accounts for those involved - Richard, Yu, Robert, Rob\n\n\nHave a model similar to what Bridget did for URNs for Jetstream VMs = mapping item to use in Jetstream\n\n\nWill describe at the image level - may want to go more granular than this\n\n\nYu and Beth think that we will want to keep the strawman profile and the jetstream profile seperate\n\n\n\n\nPuppetizing\n\n\n\n\nBridget sent update today on topic - almost done with 1 item for documentation needing to be finished\n\n\nNeed to prepare for BOF on Testbeds at RDA\n\n\n\n\nKarst Node\n\n\n\n\nBelieve that the RPID hardware could be haunted - but likely something still flawed\n\n\nCan log into the node at this point\n\n\nWorking on access levels - KARST was probably not the best direction for this in terms of access for installation\n\n\nNeed to work out policies and procedures to make this happen\n\n\n\n\nUser Advisory Group\n\n\n\n\nOther that expectations and starter list of participants\n\n\nAdd Richard H. to the user advsiory group\n\n\n\n\nAction Items\n\n\n\n\nRob Q will put Beth's data object model doc in googledocs for editing by group\n\n\nAll will follow up on review of document in google for next meeting\n\n\nYu will show his work at next IU-RPID meeting for review", 
+            "title": "31-August-2017"
+        }, 
+        {
+            "location": "/31-August-2017/#rpid-meeting-agenda-items", 
+            "text": "Discussion of Beth's new document titled-Data object model for RPID and PID Kernel Information projects", 
+            "title": "RPID Meeting Agenda Items"
+        }, 
+        {
+            "location": "/31-August-2017/#attendees-beth-robert-m-gabriel-larry-rob-q", 
+            "text": "", 
+            "title": "Attendees: Beth, Robert M., Gabriel, Larry, Rob Q,"
+        }, 
+        {
+            "location": "/31-August-2017/#apologies-bridget", 
+            "text": "", 
+            "title": "Apologies: Bridget"
+        }, 
+        {
+            "location": "/31-August-2017/#rpid-meeting-minutes", 
+            "text": "", 
+            "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/31-August-2017/#discussion-of-beths-document-data-object-model-for-rpid-and-pid-kernel-information-projects", 
+            "text": "Rob Q will put to get hub once we have worked on this in google docs", 
+            "title": "Discussion of Beth's document-Data object model for RPID and PID Kernel Information projects"
+        }, 
+        {
+            "location": "/31-August-2017/#seadtrain", 
+            "text": "PID work is almost done - will text next week  Based on yesterday's meeting will add profiles", 
+            "title": "SEADTrain"
+        }, 
+        {
+            "location": "/31-August-2017/#classics", 
+            "text": "Bridget metioned CTS URNs and how they connect to the handle system - can go down into individual words in classic texts like The Illiad  URNs are not really resolveable  Bridget will be writing this up before she leaves Tufts  See slack channel for Bridget's update", 
+            "title": "Classics"
+        }, 
+        {
+            "location": "/31-August-2017/#pragma", 
+            "text": "no update", 
+            "title": "PRAGMA"
+        }, 
+        {
+            "location": "/31-August-2017/#jetstream-vms", 
+            "text": "Meeting yesterday with Jeremy Fischer of Jetstream  Can get started with description of vms in openstack   Rob is starting up allocation so that we can see how those are working  Working on XSEDE accounts for those involved - Richard, Yu, Robert, Rob  Have a model similar to what Bridget did for URNs for Jetstream VMs = mapping item to use in Jetstream  Will describe at the image level - may want to go more granular than this  Yu and Beth think that we will want to keep the strawman profile and the jetstream profile seperate", 
+            "title": "Jetstream VMs"
+        }, 
+        {
+            "location": "/31-August-2017/#puppetizing", 
+            "text": "Bridget sent update today on topic - almost done with 1 item for documentation needing to be finished  Need to prepare for BOF on Testbeds at RDA", 
+            "title": "Puppetizing"
+        }, 
+        {
+            "location": "/31-August-2017/#karst-node", 
+            "text": "Believe that the RPID hardware could be haunted - but likely something still flawed  Can log into the node at this point  Working on access levels - KARST was probably not the best direction for this in terms of access for installation  Need to work out policies and procedures to make this happen", 
+            "title": "Karst Node"
+        }, 
+        {
+            "location": "/31-August-2017/#user-advisory-group", 
+            "text": "Other that expectations and starter list of participants  Add Richard H. to the user advsiory group", 
+            "title": "User Advisory Group"
+        }, 
+        {
+            "location": "/31-August-2017/#action-items", 
+            "text": "Rob Q will put Beth's data object model doc in googledocs for editing by group  All will follow up on review of document in google for next meeting  Yu will show his work at next IU-RPID meeting for review", 
+            "title": "Action Items"
+        }, 
+        {
             "location": "/17-August-2017/", 
             "text": "RPID Meeting Agenda Items\n\n\n\n\nExamples\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUAG\n\n\n\n\nAttendees: Gabriel, Rob, Bridget, Yu, Scott, Larry\n\n\nApologies: Robert\n\n\nRPID Meeting Minutes\n\n\nExamples\n\n\nSEADTrain\n\n\n\n\nUpgrade Interface to use PID. Requirement from the TNRC, software that can get PIDs. \n\n\nDaily updates going smoothly\n\n\nNew channels to get airbox data (TNRC)\n\n\n\n\nPRAGMA/Rice Genomics\n\n\n\n\nNot too much updates. Several domain updates, AIST moved to different location. Data storage replaced. IPs updated. \n\n\n\n\nJetstream VMs\n\n\n\n\nRobert and Rob have scheduled a meeting next Thomas, Jeremy, Scott. \n\n\n\n\nClassics\n\n\n\n\nNo update. Not sure if this will happen in the Persid project. \n\n\nBridget will get in contact to introduce to an interested party. \n\n\nCTS Handles, suggests Nevin to take this project on... Will discuss with Larry about how to proceed.\n\n\n\n\nPuppetizing\n\n\n\n\nBridget supplied ready for testing puppetized installation.\n\n\nNot 100% finished, but good time to get feedback. Some loose ends to wrap up. \n\n\n\n\nKarst Node\n\n\n\n\nWill have login access this afternoon, RHEL6, will work on VMs.\n\n\nPuppet manifests builds and runs Docker-ized. \n\n\nWill be doing testing over the next few weeks and will provide feedback to Bridget. \n\n\n\n\nUAG\n\n\n\n\nAt https://rpidproject.github.io/rpid/UAG-Expectations/\n\n\nUAG Spreadsheet", 
             "title": "17-August-2017"
