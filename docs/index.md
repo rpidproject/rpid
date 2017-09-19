@@ -18,7 +18,7 @@ In this 12+24 month project, **we will stand up and support a robust PID testbed
 ### Usage Policies
    * The RPID testbed can be used for research, education, non-profit, or pre-competitive use
    * The RPID testbed assigns only test handles, allowing for exploratory work. 
-   * Handles assigned by the testbed will be on a project basis, to avoid collisions. Your prefix will be 11723.9.test.\(proj name)
+   * Handles assigned by the testbed will be on a project basis, to avoid collisions. Your prefix will be 11723.9.test.\(proj_name)
    * Projects interested in using the testbed are strongly advised to join the RPID User Advisory Group
    * Follow the work at https://github.com/rpidproject.  
    * To join the RPID User Advisory Group or otherwise reach us, we are at rpid-l@iu.edu
