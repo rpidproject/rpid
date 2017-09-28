@@ -47,23 +47,23 @@
         }, 
         {
             "location": "/28-September-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\n\n\nNew addition at Tufts\n\n\nFollow up on Beth's new document titled-Data object model for RPID and PID Kernel Information projects.\n\n\nGoogle Doc\n\n\n\n\n\n\nFollow up items from RDA P10\n\n\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUser Advisory Group\n\n\nAction Items", 
+            "text": "RPID Meeting Agenda Items\n\n\n\n\nNew addition at Tufts\n\n\nFollow up on Beth's new document titled-Data object model for RPID and PID Kernel Information projects.\n\n\nGoogle Doc\n\n\n\n\n\n\nFollow up items from RDA P10\n\n\nRob will attend the PI meeting \n\n\n\n\nAttendees: Bridget, Richard, Robert, Larry, Scott, Isuru, Gabriele, Yu, Rob\n\n\nApologies: None\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\n\n\nPublish new data types beyond weather sensors (Twitter, Reddit, files).\n\n\n\n\nClassics\n\n\n\n\nProof of concept for CTS templates. Proposal document in Slack channel. \n\n\nMeeting in Croatia, talk with the group there about running a handle server. \n\n\n\n\nPRAGMA\n\n\n\n\nAdminstration of services. SDSC side services moved to new server. Large VMs to be sure the Galaxy workflows are preseved. \n\n\nPreformance evaluations of handle and DTR. Galaxy consuming resources, not handle or DTR connections. \n\n\n\n\nJetstream VMs\n\n\n\n\nLong discussion of document linked on Slack. \"Draft of Jetstream VM PID Mapping v2\" is available in the general channel. \n\n\nWhen does a PID get created for an object? \n\n\nPromotion of handles as DOs mature. \n\n\n\n\nPuppetizing\n\n\n\n\nTesting soon. \n\n\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\n\n\nRobert and Rob will try to have a conversation next Friday about kicking this off.\n\n\n\n\nAction Items\n\n\n\n\nScott will propose a transistion date from the services from dev to \"production\".", 
             "title": "28-September-2017"
         }, 
         {
             "location": "/28-September-2017/#rpid-meeting-agenda-items", 
-            "text": "New addition at Tufts  Follow up on Beth's new document titled-Data object model for RPID and PID Kernel Information projects.  Google Doc    Follow up items from RDA P10", 
+            "text": "New addition at Tufts  Follow up on Beth's new document titled-Data object model for RPID and PID Kernel Information projects.  Google Doc    Follow up items from RDA P10  Rob will attend the PI meeting", 
             "title": "RPID Meeting Agenda Items"
         }, 
         {
-            "location": "/28-September-2017/#attendees", 
+            "location": "/28-September-2017/#attendees-bridget-richard-robert-larry-scott-isuru-gabriele-yu-rob", 
             "text": "", 
-            "title": "Attendees:"
+            "title": "Attendees: Bridget, Richard, Robert, Larry, Scott, Isuru, Gabriele, Yu, Rob"
         }, 
         {
-            "location": "/28-September-2017/#apologies", 
+            "location": "/28-September-2017/#apologies-none", 
             "text": "", 
-            "title": "Apologies:"
+            "title": "Apologies: None"
         }, 
         {
             "location": "/28-September-2017/#rpid-meeting-minutes", 
@@ -72,42 +72,42 @@
         }, 
         {
             "location": "/28-September-2017/#seadtrain", 
-            "text": "", 
+            "text": "Publish new data types beyond weather sensors (Twitter, Reddit, files).", 
             "title": "SEADTrain"
         }, 
         {
             "location": "/28-September-2017/#classics", 
-            "text": "", 
+            "text": "Proof of concept for CTS templates. Proposal document in Slack channel.   Meeting in Croatia, talk with the group there about running a handle server.", 
             "title": "Classics"
         }, 
         {
             "location": "/28-September-2017/#pragma", 
-            "text": "", 
+            "text": "Adminstration of services. SDSC side services moved to new server. Large VMs to be sure the Galaxy workflows are preseved.   Preformance evaluations of handle and DTR. Galaxy consuming resources, not handle or DTR connections.", 
             "title": "PRAGMA"
         }, 
         {
             "location": "/28-September-2017/#jetstream-vms", 
-            "text": "", 
+            "text": "Long discussion of document linked on Slack. \"Draft of Jetstream VM PID Mapping v2\" is available in the general channel.   When does a PID get created for an object?   Promotion of handles as DOs mature.", 
             "title": "Jetstream VMs"
         }, 
         {
             "location": "/28-September-2017/#puppetizing", 
-            "text": "", 
+            "text": "Testing soon.", 
             "title": "Puppetizing"
         }, 
         {
             "location": "/28-September-2017/#karst-node", 
-            "text": "", 
+            "text": "rpid-dtr.grid.iu.edu:8080  rpid-handle.grid.iu.edu:8000", 
             "title": "Karst Node"
         }, 
         {
             "location": "/28-September-2017/#user-advisory-group", 
-            "text": "", 
+            "text": "Robert and Rob will try to have a conversation next Friday about kicking this off.", 
             "title": "User Advisory Group"
         }, 
         {
             "location": "/28-September-2017/#action-items", 
-            "text": "", 
+            "text": "Scott will propose a transistion date from the services from dev to \"production\".", 
             "title": "Action Items"
         }, 
         {
