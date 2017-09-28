@@ -30,6 +30,12 @@ In this 12+24 month project, **we will stand up and support a robust PID testbed
 
 Please feel free to contact the RPID Project Team at rpid-l@iu.edu 
 
-### Disclaimer
+## Additional Deliverables
+
+  * The [RPID Puppet Repository](https://github.com/rpidproject/puppet) contains a suite of Puppet 4 manifests that can be used to standup an instance of the RPID Test Bed in an automated, repeatable fashion.
+
+  * [Investigation of applicability of the PID architecture for CTS URNs](https://github.com/rpidproject/cts-handles/blob/master/proposal.md)
+
+## Disclaimer
 
 This material is based upon work supported by the National Science Foundation under Grant No. 1659310. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
