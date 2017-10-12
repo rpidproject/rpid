@@ -47,8 +47,68 @@
         }, 
         {
             "location": "/12-October-2017/", 
-            "text": "Placeholder.", 
+            "text": "RPID Meeting Agenda Items\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\nAction Items", 
             "title": "12-October-2017"
+        }, 
+        {
+            "location": "/12-October-2017/#rpid-meeting-agenda-items", 
+            "text": "", 
+            "title": "RPID Meeting Agenda Items"
+        }, 
+        {
+            "location": "/12-October-2017/#attendees", 
+            "text": "", 
+            "title": "Attendees:"
+        }, 
+        {
+            "location": "/12-October-2017/#apologies", 
+            "text": "", 
+            "title": "Apologies:"
+        }, 
+        {
+            "location": "/12-October-2017/#rpid-meeting-minutes", 
+            "text": "", 
+            "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/12-October-2017/#seadtrain", 
+            "text": "", 
+            "title": "SEADTrain"
+        }, 
+        {
+            "location": "/12-October-2017/#classics", 
+            "text": "", 
+            "title": "Classics"
+        }, 
+        {
+            "location": "/12-October-2017/#pragma", 
+            "text": "", 
+            "title": "PRAGMA"
+        }, 
+        {
+            "location": "/12-October-2017/#jetstream-vms", 
+            "text": "", 
+            "title": "Jetstream VMs"
+        }, 
+        {
+            "location": "/12-October-2017/#puppetizing", 
+            "text": "", 
+            "title": "Puppetizing"
+        }, 
+        {
+            "location": "/12-October-2017/#karst-node", 
+            "text": "rpid-dtr.grid.iu.edu:8080  rpid-handle.grid.iu.edu:8000", 
+            "title": "Karst Node"
+        }, 
+        {
+            "location": "/12-October-2017/#user-advisory-group", 
+            "text": "", 
+            "title": "User Advisory Group"
+        }, 
+        {
+            "location": "/12-October-2017/#action-items", 
+            "text": "", 
+            "title": "Action Items"
         }, 
         {
             "location": "/28-September-2017/", 
