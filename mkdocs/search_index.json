@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/12-October-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\nAction Items", 
+            "text": "RPID Meeting Agenda Items\n\n\nAttendees: Gabriel, Yu, Rob, Richard (dropped off)\n\n\nApologies: Robert, Alison\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\n\n\nAccept all types of data. Files, video, etc. \n\n\nWon't have an effect on data.\n\n\nNew profile being worked on by Beth to use on testbeds. \n\n\nMetadata in PID Kernel will not be affected. \n\n\n\n\nClassics\n\n\nPRAGMA\n\n\n\n\nGet more data. Most data sets are not public. \n\n\nGet more genotypes from the Rice Institute. \n\n\nReaching out to community. \n\n\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\n\n\nRob has AWS access. \n\n\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\n\n\nRob and Robert are trying to schedule a meeting. \n\n\n\n\nAction Items\n\n\n\n\nRob will start a doodle poll to move this meeting off the 2-3pm EDT time.", 
             "title": "12-October-2017"
         }, 
         {
@@ -56,14 +56,14 @@
             "title": "RPID Meeting Agenda Items"
         }, 
         {
-            "location": "/12-October-2017/#attendees", 
+            "location": "/12-October-2017/#attendees-gabriel-yu-rob-richard-dropped-off", 
             "text": "", 
-            "title": "Attendees:"
+            "title": "Attendees: Gabriel, Yu, Rob, Richard (dropped off)"
         }, 
         {
-            "location": "/12-October-2017/#apologies", 
+            "location": "/12-October-2017/#apologies-robert-alison", 
             "text": "", 
-            "title": "Apologies:"
+            "title": "Apologies: Robert, Alison"
         }, 
         {
             "location": "/12-October-2017/#rpid-meeting-minutes", 
@@ -72,7 +72,7 @@
         }, 
         {
             "location": "/12-October-2017/#seadtrain", 
-            "text": "", 
+            "text": "Accept all types of data. Files, video, etc.   Won't have an effect on data.  New profile being worked on by Beth to use on testbeds.   Metadata in PID Kernel will not be affected.", 
             "title": "SEADTrain"
         }, 
         {
@@ -82,7 +82,7 @@
         }, 
         {
             "location": "/12-October-2017/#pragma", 
-            "text": "", 
+            "text": "Get more data. Most data sets are not public.   Get more genotypes from the Rice Institute.   Reaching out to community.", 
             "title": "PRAGMA"
         }, 
         {
@@ -92,7 +92,7 @@
         }, 
         {
             "location": "/12-October-2017/#puppetizing", 
-            "text": "", 
+            "text": "Rob has AWS access.", 
             "title": "Puppetizing"
         }, 
         {
@@ -102,12 +102,12 @@
         }, 
         {
             "location": "/12-October-2017/#user-advisory-group", 
-            "text": "", 
+            "text": "Rob and Robert are trying to schedule a meeting.", 
             "title": "User Advisory Group"
         }, 
         {
             "location": "/12-October-2017/#action-items", 
-            "text": "", 
+            "text": "Rob will start a doodle poll to move this meeting off the 2-3pm EDT time.", 
             "title": "Action Items"
         }, 
         {
