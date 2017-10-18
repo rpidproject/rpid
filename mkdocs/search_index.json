@@ -46,6 +46,71 @@
             "title": "Disclaimer"
         }, 
         {
+            "location": "/25-October-2017/", 
+            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/192150867 \n\n\nAttendees:\n\n\nApologies: Rob\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\nAction Items", 
+            "title": "25-October-2017"
+        }, 
+        {
+            "location": "/25-October-2017/#rpid-meeting-agenda-items", 
+            "text": "Wednesday 13:00 EDT\nhttps://iu.zoom.us/j/192150867", 
+            "title": "RPID Meeting Agenda Items"
+        }, 
+        {
+            "location": "/25-October-2017/#attendees", 
+            "text": "", 
+            "title": "Attendees:"
+        }, 
+        {
+            "location": "/25-October-2017/#apologies-rob", 
+            "text": "", 
+            "title": "Apologies: Rob"
+        }, 
+        {
+            "location": "/25-October-2017/#rpid-meeting-minutes", 
+            "text": "", 
+            "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/25-October-2017/#seadtrain", 
+            "text": "", 
+            "title": "SEADTrain"
+        }, 
+        {
+            "location": "/25-October-2017/#classics", 
+            "text": "", 
+            "title": "Classics"
+        }, 
+        {
+            "location": "/25-October-2017/#pragma", 
+            "text": "", 
+            "title": "PRAGMA"
+        }, 
+        {
+            "location": "/25-October-2017/#jetstream-vms", 
+            "text": "", 
+            "title": "Jetstream VMs"
+        }, 
+        {
+            "location": "/25-October-2017/#puppetizing", 
+            "text": "", 
+            "title": "Puppetizing"
+        }, 
+        {
+            "location": "/25-October-2017/#karst-node", 
+            "text": "rpid-dtr.grid.iu.edu:8080  rpid-handle.grid.iu.edu:8000", 
+            "title": "Karst Node"
+        }, 
+        {
+            "location": "/25-October-2017/#user-advisory-group", 
+            "text": "", 
+            "title": "User Advisory Group"
+        }, 
+        {
+            "location": "/25-October-2017/#action-items", 
+            "text": "", 
+            "title": "Action Items"
+        }, 
+        {
             "location": "/12-October-2017/", 
             "text": "RPID Meeting Agenda Items\n\n\nAttendees: Gabriel, Yu, Rob, Richard (dropped off)\n\n\nApologies: Robert, Alison\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\n\n\nAccept all types of data. Files, video, etc. \n\n\nWon't have an effect on data.\n\n\nNew profile being worked on by Beth to use on testbeds. \n\n\nMetadata in PID Kernel will not be affected. \n\n\n\n\nClassics\n\n\nPRAGMA\n\n\n\n\nGet more data. Most data sets are not public. \n\n\nGet more genotypes from the Rice Institute. \n\n\nReaching out to community. \n\n\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\n\n\nRob has AWS access. \n\n\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\n\n\nRob and Robert are trying to schedule a meeting. \n\n\n\n\nAction Items\n\n\n\n\nRob will start a doodle poll to move this meeting off the 2-3pm EDT time.", 
             "title": "12-October-2017"
