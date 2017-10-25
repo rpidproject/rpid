@@ -27,3 +27,5 @@ Web URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html
 ### User Advisory Group
 
 ### Action Items
+PersIDs -- Thousands of DOs, CTS (cannoical text services)-PIDs
+https://github.com/rpidproject/cts-handles/blob/master/proposal.md
