@@ -47,8 +47,68 @@
         }, 
         {
             "location": "/08-November-2017/", 
-            "text": "Placeholder", 
+            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/192150867 \n\n\nAttendees:\n\n\nApologies: Alison\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\nAction Items\n\n\nPersIDs -- Thousands of DOs, CTS (cannoical text services)-PIDs\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
             "title": "08-November-2017"
+        }, 
+        {
+            "location": "/08-November-2017/#rpid-meeting-agenda-items", 
+            "text": "Wednesday 13:00 EDT\nhttps://iu.zoom.us/j/192150867", 
+            "title": "RPID Meeting Agenda Items"
+        }, 
+        {
+            "location": "/08-November-2017/#attendees", 
+            "text": "", 
+            "title": "Attendees:"
+        }, 
+        {
+            "location": "/08-November-2017/#apologies-alison", 
+            "text": "", 
+            "title": "Apologies: Alison"
+        }, 
+        {
+            "location": "/08-November-2017/#rpid-meeting-minutes", 
+            "text": "", 
+            "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/08-November-2017/#seadtrain", 
+            "text": "Project Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain", 
+            "title": "SEADTrain"
+        }, 
+        {
+            "location": "/08-November-2017/#classics", 
+            "text": "", 
+            "title": "Classics"
+        }, 
+        {
+            "location": "/08-November-2017/#pragma", 
+            "text": "Web URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html", 
+            "title": "PRAGMA"
+        }, 
+        {
+            "location": "/08-November-2017/#jetstream-vms", 
+            "text": "", 
+            "title": "Jetstream VMs"
+        }, 
+        {
+            "location": "/08-November-2017/#puppetizing", 
+            "text": "", 
+            "title": "Puppetizing"
+        }, 
+        {
+            "location": "/08-November-2017/#karst-node", 
+            "text": "rpid-dtr.grid.iu.edu:8080  rpid-handle.grid.iu.edu:8000", 
+            "title": "Karst Node"
+        }, 
+        {
+            "location": "/08-November-2017/#user-advisory-group", 
+            "text": "", 
+            "title": "User Advisory Group"
+        }, 
+        {
+            "location": "/08-November-2017/#action-items", 
+            "text": "PersIDs -- Thousands of DOs, CTS (cannoical text services)-PIDs\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
+            "title": "Action Items"
         }, 
         {
             "location": "/25-October-2017/", 
