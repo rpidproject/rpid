@@ -1,8 +1,8 @@
 # RPID Meeting Agenda Items
 Wednesday 13:00 EDT
-https://iu.zoom.us/j/192150867 
+https://iu.zoom.us/j/300135894
    
-## Attendees:
+## Attendees: Yu, Gabriel, Scott, Robert M, Rob Q
 ## Apologies: Alison
    
 # RPID Meeting Minutes
@@ -12,11 +12,15 @@ Project Git:
 https://github.com/Data-to-Insight-Center/SEADTrain
 
 ### Classics
+Resolving URN namespaces using handle system resolution. 
    
 ### PRAGMA
 Web URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html
+Draft paper submitted to GigaScience. 
+40% of the content is about the PID work. Some adjustments to API and code base. 
 
 ### Jetstream VMs
+Richard and Robert talked about it. 
   
 ### Puppetizing
 
@@ -26,7 +30,11 @@ Web URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html
 
 ### User Advisory Group
 
+### C2CAMP
+Cross Continential Testbed that will fold RPID into its structure. 
+
 ### Action Items
 PersIDs -- Thousands of DOs, CTS (cannoical text services)-PIDs
 https://github.com/rpidproject/cts-handles/blob/master/proposal.md
-
+Yu will alert Rob when SEAD-Train moves to prod system.
+Rob useradd Yu and Gabriel to AWS account. 
