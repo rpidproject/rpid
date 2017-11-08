@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/08-November-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees: Yu, Gabriel, Scott, Robert M, Rob Q\n\n\nApologies: Alison\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\nResolving URN namespaces using handle system resolution. \n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\nDraft paper submitted to GigaScience. \n40% of the content is about the PID work. Some adjustments to API and code base. \n\n\nJetstream VMs\n\n\nRichard and Robert talked about it. \n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\n\n\nInvitation mails sent. 7 responses, 6 will join, 1 wants more information. \n\n\n\n\nC2CAMP\n\n\nCross Continential Testbed that will fold RPID into its structure. \n\n\nAction Items\n\n\nPersIDs -- Thousands of DOs, CTS (cannoical text services)-PIDs\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md\nYu will alert Rob when SEAD-Train moves to prod system.\nRob useradd Yu and Gabriel to AWS account.", 
+            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees: Yu, Gabriel, Scott, Robert M, Rob Q\n\n\nApologies: Alison\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\nResolving URN namespaces using handle system resolution. \n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\nDraft paper submitted to GigaScience. \n40% of the content is about the PID work. Some adjustments to API and code base. \n\n\nJetstream VMs\n\n\nRichard and Robert talked about it. \n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\n\n\nInvitation mails sent. 7 responses, 6 will join, 1 wants more information. \n\n\n\n\nC2CAMP\n\n\n\n\nCross Continential Testbed that will fold RPID into its structure. \n\n\n\n\nAction Items\n\n\n\n\nYu will alert Rob when SEAD-Train moves to prod system.\n\n\nRob useradd Yu and Gabriel to AWS account.", 
             "title": "08-November-2017"
         }, 
         {
@@ -112,7 +112,7 @@
         }, 
         {
             "location": "/08-November-2017/#action-items", 
-            "text": "PersIDs -- Thousands of DOs, CTS (cannoical text services)-PIDs\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md\nYu will alert Rob when SEAD-Train moves to prod system.\nRob useradd Yu and Gabriel to AWS account.", 
+            "text": "Yu will alert Rob when SEAD-Train moves to prod system.  Rob useradd Yu and Gabriel to AWS account.", 
             "title": "Action Items"
         }, 
         {
