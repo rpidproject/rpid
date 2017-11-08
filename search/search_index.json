@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/25-October-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/192150867 \n\n\nAttendees:\n\n\nApologies: Rob\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\nAction Items", 
+            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/192150867 \n\n\nAttendees:\n\n\nApologies: Rob\n\n\nRPID Meeting Minutes\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\n\n\nrpid-dtr.grid.iu.edu:8080\n\n\nrpid-handle.grid.iu.edu:8000\n\n\n\n\nUser Advisory Group\n\n\nAction Items\n\n\nPersIDs -- Thousands of DOs, CTS (cannoical text services)-PIDs\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
             "title": "25-October-2017"
         }, 
         {
@@ -107,7 +107,7 @@
         }, 
         {
             "location": "/25-October-2017/#action-items", 
-            "text": "", 
+            "text": "PersIDs -- Thousands of DOs, CTS (cannoical text services)-PIDs\nhttps://github.com/rpidproject/cts-handles/blob/master/proposal.md", 
             "title": "Action Items"
         }, 
         {
