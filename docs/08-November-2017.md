@@ -32,10 +32,9 @@ Richard and Robert talked about it.
    * Invitation mails sent. 7 responses, 6 will join, 1 wants more information. 
 
 ### C2CAMP
-Cross Continential Testbed that will fold RPID into its structure. 
+   * Cross Continential Testbed that will fold RPID into its structure. 
 
 ### Action Items
-PersIDs -- Thousands of DOs, CTS (cannoical text services)-PIDs
-https://github.com/rpidproject/cts-handles/blob/master/proposal.md
-Yu will alert Rob when SEAD-Train moves to prod system.
-Rob useradd Yu and Gabriel to AWS account. 
+
+   * Yu will alert Rob when SEAD-Train moves to prod system.
+   * Rob useradd Yu and Gabriel to AWS account. 
