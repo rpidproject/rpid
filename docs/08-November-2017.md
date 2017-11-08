@@ -29,6 +29,7 @@ Richard and Robert talked about it.
    * rpid-handle.grid.iu.edu:8000
 
 ### User Advisory Group
+   * Invitation mails sent. 7 responses, 6 will join, 1 wants more information. 
 
 ### C2CAMP
 Cross Continential Testbed that will fold RPID into its structure. 
