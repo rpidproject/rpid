@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/06-December-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees: Yu, Gabriel, Scott, Larry, Alison, Rob\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nIEEE Workshop on Big Data Metadata and Management (BDMM \u20192017)\n\n\n\n\nYu will attend and present on the RPID project.\n\n\nYu will send slides to the list. \n\n\n\n\nNSF Slide\n\n\n\n\nFinal input? Nothing, Rob will send this out at EoB today. \n\n\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\n\n\nCode should live at IU (aka. the RPID github repo.\n\n\nLarry will send proxy server information.\n\n\n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n   * PIs met with Yu and Gabriel. \n\n\nJetstream VMs\n\n\n\n\nRob will call Robert to push this along. \n\n\n\n\nPuppetizing\n\n\n\n\nAWS two instances set up by Gabriel, do preformance evaluation. Workload generator instance, other is LHS and DTR to guage preformance.\n\n\n\n\nKarst Node\n\n\n\n\nLocked into read-only mode signaling disk coruption. Flatten the Karst node and reformat the drives. \n\n\n\n\nUser Advisory Group\n\n\n\n\nRobert M will send a doodle poll for first meeting (Weeks of 22-Jan or 29-Jan)\n\n\n\n\nAction Items\n\n\n\n\nLarry will send around information about the new Cordra version.", 
+            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees: Yu, Gabriel, Scott, Larry, Alison, Rob, Robert\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nIEEE Workshop on Big Data Metadata and Management (BDMM \u20192017)\n\n\n\n\nYu will attend and present on the RPID project.\n\n\nYu will send slides to the list. \n\n\n\n\nNSF Slide\n\n\n\n\nFinal input? Nothing, Rob will send this out at EoB today. \n\n\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\n\n\nCode should live at IU (aka. the RPID github repo.\n\n\nLarry will send proxy server information.\n\n\n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n   * PIs met with Yu and Gabriel. \n\n\nJetstream VMs\n\n\n\n\nRob will call Robert to push this along. \n\n\n\n\nPuppetizing\n\n\n\n\nAWS two instances set up by Gabriel, do preformance evaluation. Workload generator instance, other is LHS and DTR to guage preformance.\n\n\n\n\nKarst Node\n\n\n\n\nLocked into read-only mode signaling disk coruption. Flatten the Karst node and reformat the drives. \n\n\n\n\nUser Advisory Group\n\n\n\n\nRobert M will send a doodle poll for first meeting (Weeks of 22-Jan or 29-Jan)\n\n\n\n\nAction Items\n\n\n\n\nLarry will send around information about the new Cordra version.", 
             "title": "06-December-2017"
         }, 
         {
@@ -56,9 +56,9 @@
             "title": "RPID Meeting Agenda Items"
         }, 
         {
-            "location": "/06-December-2017/#attendees-yu-gabriel-scott-larry-alison-rob", 
+            "location": "/06-December-2017/#attendees-yu-gabriel-scott-larry-alison-rob-robert", 
             "text": "", 
-            "title": "Attendees: Yu, Gabriel, Scott, Larry, Alison, Rob"
+            "title": "Attendees: Yu, Gabriel, Scott, Larry, Alison, Rob, Robert"
         }, 
         {
             "location": "/06-December-2017/#apologies", 
