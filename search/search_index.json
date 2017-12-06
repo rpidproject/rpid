@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/06-December-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nIEEE Workshop on Big Data Metadata and Management (BDMM \u20192017)\n\n\n\n\nYu will attend and present on the RPID project.\n\n\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUser Advisory Group\n\n\nAction Items", 
+            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nIEEE Workshop on Big Data Metadata and Management (BDMM \u20192017)\n\n\n\n\nYu will attend and present on the RPID project.\n\n\n\n\nNSF Slide\n\n\n\n\nFinal input?\n\n\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUser Advisory Group\n\n\nAction Items", 
             "title": "06-December-2017"
         }, 
         {
@@ -74,6 +74,11 @@
             "location": "/06-December-2017/#ieee-workshop-on-big-data-metadata-and-management-bdmm-2017", 
             "text": "Yu will attend and present on the RPID project.", 
             "title": "IEEE Workshop on Big Data Metadata and Management (BDMM \u20192017)"
+        }, 
+        {
+            "location": "/06-December-2017/#nsf-slide", 
+            "text": "Final input?", 
+            "title": "NSF Slide"
         }, 
         {
             "location": "/06-December-2017/#seadtrain", 
