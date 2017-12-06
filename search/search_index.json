@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/06-December-2017/", 
-            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nIEEE Workshop on Big Data Metadata and Management (BDMM \u20192017)\n\n\n\n\nYu will attend and present on the RPID project.\n\n\n\n\nNSF Slide\n\n\n\n\nFinal input?\n\n\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nKarst Node\n\n\nUser Advisory Group\n\n\nAction Items", 
+            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees: Yu, Gabriel, Scott, Larry, Alison, Rob\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nIEEE Workshop on Big Data Metadata and Management (BDMM \u20192017)\n\n\n\n\nYu will attend and present on the RPID project.\n\n\nYu will send slides to the list. \n\n\n\n\nNSF Slide\n\n\n\n\nFinal input? Nothing, Rob will send this out at EoB today. \n\n\n\n\nSEADTrain\n\n\nProject Git:\nhttps://github.com/Data-to-Insight-Center/SEADTrain\n\n\nClassics\n\n\n\n\nCode should live at IU (aka. the RPID github repo.\n\n\nLarry will send proxy server information.\n\n\n\n\nPRAGMA\n\n\nWeb URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n   * PIs met with Yu and Gabriel. \n\n\nJetstream VMs\n\n\n\n\nRob will call Robert to push this along. \n\n\n\n\nPuppetizing\n\n\n\n\nAWS two instances set up by Gabriel, do preformance evaluation. Workload generator instance, other is LHS and DTR to guage preformance.\n\n\n\n\nKarst Node\n\n\n\n\nLocked into read-only mode signaling disk coruption. Flatten the Karst node and reformat the drives. \n\n\n\n\nUser Advisory Group\n\n\n\n\nRobert M will send a doodle poll for first meeting (Weeks of 22-Jan or 29-Jan)\n\n\n\n\nAction Items\n\n\n\n\nLarry will send around information about the new Cordra version.", 
             "title": "06-December-2017"
         }, 
         {
@@ -56,9 +56,9 @@
             "title": "RPID Meeting Agenda Items"
         }, 
         {
-            "location": "/06-December-2017/#attendees", 
+            "location": "/06-December-2017/#attendees-yu-gabriel-scott-larry-alison-rob", 
             "text": "", 
-            "title": "Attendees:"
+            "title": "Attendees: Yu, Gabriel, Scott, Larry, Alison, Rob"
         }, 
         {
             "location": "/06-December-2017/#apologies", 
@@ -72,12 +72,12 @@
         }, 
         {
             "location": "/06-December-2017/#ieee-workshop-on-big-data-metadata-and-management-bdmm-2017", 
-            "text": "Yu will attend and present on the RPID project.", 
+            "text": "Yu will attend and present on the RPID project.  Yu will send slides to the list.", 
             "title": "IEEE Workshop on Big Data Metadata and Management (BDMM \u20192017)"
         }, 
         {
             "location": "/06-December-2017/#nsf-slide", 
-            "text": "Final input?", 
+            "text": "Final input? Nothing, Rob will send this out at EoB today.", 
             "title": "NSF Slide"
         }, 
         {
@@ -87,37 +87,37 @@
         }, 
         {
             "location": "/06-December-2017/#classics", 
-            "text": "", 
+            "text": "Code should live at IU (aka. the RPID github repo.  Larry will send proxy server information.", 
             "title": "Classics"
         }, 
         {
             "location": "/06-December-2017/#pragma", 
-            "text": "Web URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html", 
+            "text": "Web URL: http://rocks-53.sdsc.edu:8079/testGUI/irri-index.html\n   * PIs met with Yu and Gabriel.", 
             "title": "PRAGMA"
         }, 
         {
             "location": "/06-December-2017/#jetstream-vms", 
-            "text": "", 
+            "text": "Rob will call Robert to push this along.", 
             "title": "Jetstream VMs"
         }, 
         {
             "location": "/06-December-2017/#puppetizing", 
-            "text": "", 
+            "text": "AWS two instances set up by Gabriel, do preformance evaluation. Workload generator instance, other is LHS and DTR to guage preformance.", 
             "title": "Puppetizing"
         }, 
         {
             "location": "/06-December-2017/#karst-node", 
-            "text": "", 
+            "text": "Locked into read-only mode signaling disk coruption. Flatten the Karst node and reformat the drives.", 
             "title": "Karst Node"
         }, 
         {
             "location": "/06-December-2017/#user-advisory-group", 
-            "text": "", 
+            "text": "Robert M will send a doodle poll for first meeting (Weeks of 22-Jan or 29-Jan)", 
             "title": "User Advisory Group"
         }, 
         {
             "location": "/06-December-2017/#action-items", 
-            "text": "", 
+            "text": "Larry will send around information about the new Cordra version.", 
             "title": "Action Items"
         }, 
         {
