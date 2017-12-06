@@ -8,7 +8,10 @@ https://iu.zoom.us/j/300135894
 # RPID Meeting Minutes
 
 ### IEEE Workshop on Big Data Metadata and Management (BDMM ’2017)
-  * Yu will attend and present on the RPID project.
+   * Yu will attend and present on the RPID project.
+  
+### NSF Slide
+   * Final input?
 
 ### SEADTrain
 Project Git:
