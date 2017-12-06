@@ -2,7 +2,7 @@
 Wednesday 13:00 EDT
 https://iu.zoom.us/j/300135894
    
-## Attendees: Yu, Gabriel, Scott, Larry, Alison, Rob
+## Attendees: Yu, Gabriel, Scott, Larry, Alison, Rob, Robert
 ## Apologies: 
    
 # RPID Meeting Minutes
