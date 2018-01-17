@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/17-January-2018/", 
-            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nAdministrative\n\n\n\n\nNCE Requested. \n\n\nRebudget submitted to IU ORA based on Tufts changes. \n\n\n\n\nSEADTrain\n\n\n\n\nProject Git: https://github.com/Data-to-Insight-Center/SEADTrain\n\n\n\n\nCTS URN\n\n\n\n\nUpdated document at https://docs.google.com/document/d/1iwWcmWXvnJuw61mRKkxYqOZQPIn7TpLRyGcFMqlxzB4/edit\n\n\n\n\nPRAGMA\n\n\nJetstream VMs\n\n\nPuppetizing\n\n\nRPID Services Update\n\n\nUser Advisory Group\n\n\n\n\nDoodle Poll completed. \n\n\nFirst UAG Meeting 02 Febuary 2018.", 
+            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees: Scott, Richard, Allison, Yu, Grabriel, Rob\n\n\nApologies: Larry\n\n\nRPID Meeting Minutes\n\n\nAdministrative\n\n\n\n\nNCE Requested. \n\n\nRebudget submitted to IU ORA based on Tufts changes. \n\n\n\n\nSEADTrain\n\n\n\n\nProject Git: https://github.com/Data-to-Insight-Center/SEADTrain\n\n\nTalked about more data will publish more data. How the WISE data and Airbox data can be merged. \n\n\n\n\nCTS URN\n\n\n\n\nUpdated document at https://docs.google.com/document/d/1iwWcmWXvnJuw61mRKkxYqOZQPIn7TpLRyGcFMqlxzB4/edit\n\n\nDiscription not accurate. \n\n\n\n\nPRAGMA\n\n\n\n\nNext steps: contact ASTI philipeans galaxy workflows. \n\n\nUsing RPID testbed to assign handles to all Data Objects. (Previously only workflow given handles.)\n\n\nPIDs an finer granularity. Can provide provenence purely from handles. \n\n\n\n\nJetstream VMs\n\n\n\n\nGood conversation. Went though the Scholorworks examples. \n\n\nWent through examples from Jeremy. \n\n\nGet a little more information and determine if the API could be useful. \n\n\nHuman readable version online. \n\n\n\n\nPuppetizing\n\n\n\n\nOne working Handle and DTR in AWS. \n\n\nEverytime it is restarted IP address change. \n\n\nPricing for Static IP will be sent. \n\n\n\n\nRPID Services Update\n\n\n\n\nWeathered a OS maintenance without issue. \n\n\nAll ansible build needs to be tested to survive reboot. \n\n\n\n\nUser Advisory Group\n\n\n\n\nDoodle Poll completed. \n\n\nFirst UAG Meeting 02 Febuary 2018. \n\n\n\n\nIU Workshop\n\n\n\n\nSpring, more details coming. \n\n\n\n\nXSEDE Request\n\n\n\n\nRob will talk to JP about RPID and do an introduction.", 
             "title": "17-January-2018"
         }, 
         {
@@ -56,14 +56,14 @@
             "title": "RPID Meeting Agenda Items"
         }, 
         {
-            "location": "/17-January-2018/#attendees", 
+            "location": "/17-January-2018/#attendees-scott-richard-allison-yu-grabriel-rob", 
             "text": "", 
-            "title": "Attendees:"
+            "title": "Attendees: Scott, Richard, Allison, Yu, Grabriel, Rob"
         }, 
         {
-            "location": "/17-January-2018/#apologies", 
+            "location": "/17-January-2018/#apologies-larry", 
             "text": "", 
-            "title": "Apologies:"
+            "title": "Apologies: Larry"
         }, 
         {
             "location": "/17-January-2018/#rpid-meeting-minutes", 
@@ -77,38 +77,48 @@
         }, 
         {
             "location": "/17-January-2018/#seadtrain", 
-            "text": "Project Git: https://github.com/Data-to-Insight-Center/SEADTrain", 
+            "text": "Project Git: https://github.com/Data-to-Insight-Center/SEADTrain  Talked about more data will publish more data. How the WISE data and Airbox data can be merged.", 
             "title": "SEADTrain"
         }, 
         {
             "location": "/17-January-2018/#cts-urn", 
-            "text": "Updated document at https://docs.google.com/document/d/1iwWcmWXvnJuw61mRKkxYqOZQPIn7TpLRyGcFMqlxzB4/edit", 
+            "text": "Updated document at https://docs.google.com/document/d/1iwWcmWXvnJuw61mRKkxYqOZQPIn7TpLRyGcFMqlxzB4/edit  Discription not accurate.", 
             "title": "CTS URN"
         }, 
         {
             "location": "/17-January-2018/#pragma", 
-            "text": "", 
+            "text": "Next steps: contact ASTI philipeans galaxy workflows.   Using RPID testbed to assign handles to all Data Objects. (Previously only workflow given handles.)  PIDs an finer granularity. Can provide provenence purely from handles.", 
             "title": "PRAGMA"
         }, 
         {
             "location": "/17-January-2018/#jetstream-vms", 
-            "text": "", 
+            "text": "Good conversation. Went though the Scholorworks examples.   Went through examples from Jeremy.   Get a little more information and determine if the API could be useful.   Human readable version online.", 
             "title": "Jetstream VMs"
         }, 
         {
             "location": "/17-January-2018/#puppetizing", 
-            "text": "", 
+            "text": "One working Handle and DTR in AWS.   Everytime it is restarted IP address change.   Pricing for Static IP will be sent.", 
             "title": "Puppetizing"
         }, 
         {
             "location": "/17-January-2018/#rpid-services-update", 
-            "text": "", 
+            "text": "Weathered a OS maintenance without issue.   All ansible build needs to be tested to survive reboot.", 
             "title": "RPID Services Update"
         }, 
         {
             "location": "/17-January-2018/#user-advisory-group", 
             "text": "Doodle Poll completed.   First UAG Meeting 02 Febuary 2018.", 
             "title": "User Advisory Group"
+        }, 
+        {
+            "location": "/17-January-2018/#iu-workshop", 
+            "text": "Spring, more details coming.", 
+            "title": "IU Workshop"
+        }, 
+        {
+            "location": "/17-January-2018/#xsede-request", 
+            "text": "Rob will talk to JP about RPID and do an introduction.", 
+            "title": "XSEDE Request"
         }, 
         {
             "location": "/19-December-2017/", 
