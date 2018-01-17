@@ -46,6 +46,11 @@
             "title": "Disclaimer"
         }, 
         {
+            "location": "/17-January-2018/", 
+            "text": "Placeholder.", 
+            "title": "17-January-2018"
+        }, 
+        {
             "location": "/19-December-2017/", 
             "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees: Yu, Scott, Alison, Rob, Robert\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nIEEE Workshop on Big Data Metadata and Management (BDMM \u20192017)\n\n\n\n\nGlobal DTR. Well received and some interest from Wu at \n\n\n\n\nSEADTrain\n\n\nProject Git: https://github.com/Data-to-Insight-Center/SEADTrain\nLooking for a user study group. \nSimpler user workflow. \n\n\nClassics\n\n\n\n\nCode should live at IU (aka. the RPID github repo.)\n\n\nCurrenly normal handle, CTS-URN use template handle. Formula (function) in the handle. \n\n\nYu visited Alison in Boston. \n\n\nAlison is providing requirements and workflow documents. \n\n\nYu will provide a base document.\n\n\n\n\nPRAGMA\n\n\n\n\nYu is meeting with PRAGMA team tonight. \n\n\nTwo surveys, discussion of what to do with these surveys. \n\n\n\n\nJetstream VMs\n\n\n\n\nRob will start a mail thread with Jermey and Yu regarding Jetstream. (cc Robert)\n\n\nRichard compelted the mapping, we should talk to Jeremy about Jetstream usage. \n\n\n\n\nPuppetizing\n\n\n\n\nNo status update. \n\n\n\n\nKarst Node\n\n\n\n\nNothing new on the Karst node. \n\n\nAnsible to build configuration of handle. \n\n\nPossible to move to high availability plan. \n\n\n\n\nUser Advisory Group\n\n\n\n\nRobert M will send a doodle poll for first meeting (Weeks of 22-Jan or 29-Jan)", 
             "title": "19-December-2017"
