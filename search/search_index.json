@@ -46,6 +46,11 @@
             "title": "Disclaimer"
         }, 
         {
+            "location": "/31-January-2018/", 
+            "text": "Placeholder.", 
+            "title": "31-January-2018"
+        }, 
+        {
             "location": "/17-January-2018/", 
             "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees: Scott, Richard, Allison, Yu, Grabriel, Rob\n\n\nApologies: Larry\n\n\nRPID Meeting Minutes\n\n\nAdministrative\n\n\n\n\nNCE Requested. \n\n\nRebudget submitted to IU ORA based on Tufts changes. \n\n\n\n\nSEADTrain\n\n\n\n\nProject Git: https://github.com/Data-to-Insight-Center/SEADTrain\n\n\nTalked about more data will publish more data. How the WISE data and Airbox data can be merged. \n\n\n\n\nCTS URN\n\n\n\n\nUpdated document at https://docs.google.com/document/d/1iwWcmWXvnJuw61mRKkxYqOZQPIn7TpLRyGcFMqlxzB4/edit\n\n\nDiscription not accurate. \n\n\n\n\nPRAGMA\n\n\n\n\nNext steps: contact ASTI philipeans galaxy workflows. \n\n\nUsing RPID testbed to assign handles to all Data Objects. (Previously only workflow given handles.)\n\n\nPIDs an finer granularity. Can provide provenence purely from handles. \n\n\n\n\nJetstream VMs\n\n\n\n\nGood conversation. Went though the Scholorworks examples. \n\n\nWent through examples from Jeremy. \n\n\nGet a little more information and determine if the API could be useful. \n\n\nHuman readable version online. \n\n\n\n\nPuppetizing\n\n\n\n\nOne working Handle and DTR in AWS. \n\n\nEverytime it is restarted IP address change. \n\n\nPricing for Static IP will be sent. \n\n\n\n\nRPID Services Update\n\n\n\n\nWeathered a OS maintenance without issue. \n\n\nAll ansible build needs to be tested to survive reboot. \n\n\n\n\nUser Advisory Group\n\n\n\n\nDoodle Poll completed. \n\n\nFirst UAG Meeting 02 Febuary 2018. \n\n\n\n\nIU Workshop\n\n\n\n\nSpring, more details coming. \n\n\n\n\nXSEDE Request\n\n\n\n\nRob will talk to JP about RPID and do an introduction.", 
             "title": "17-January-2018"
