@@ -1,5 +1,7 @@
 # RPID Group Meeting 30-January-2018
 
+Wednesday 13:00 EDT https://iu.zoom.us/j/300135894
+
 ## Not your standard RPID Meeting Agenda
 
 ### UAG Meeting this Friday
