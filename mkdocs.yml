@@ -9,6 +9,7 @@ extra_css:
 pages:
 - Home: 'index.md'
 - BiWeekly Meeting Agenda and Minutes:
+  - '31-January-2018': '31-January-2018.md'
   - '17-January-2018': '17-January-2018.md'
   - '19-December-2017': '19-December-2017.md'
   - '06-December-2017': '06-December-2017.md'
