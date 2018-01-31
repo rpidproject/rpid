@@ -27,6 +27,7 @@ pages:
   - '22-June-2017 Meeting': '22-June-2017.md'
 - User Advisory Group:
   - 'Expectations': 'UAG-Expectations.md'
+  - 'UAG Meeting 2-February-2018': 'UAG-2-February-2018.md'
 
 markdown_extensions:
   - admonition
