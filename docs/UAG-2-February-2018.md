@@ -8,3 +8,5 @@
    * UAG Goals and Expectations (R. McDonald) – 5’
    * Description of the Testbed and Cloud Set Up (S. Teige, Q. Zhou) – 5’
    * Questions and discussion – All – 20’
+   
+   * Link to Slides: https://docs.google.com/presentation/d/1clVKdBB0kjlgrSrPXDaYqriCHSytuLT31FjpAFJo7h8/edit#slide=id.g306d851e53_0_429
