@@ -10,3 +10,5 @@
    * Questions and discussion – All – 20’
    
    * Link to Slides: https://docs.google.com/presentation/d/1clVKdBB0kjlgrSrPXDaYqriCHSytuLT31FjpAFJo7h8/edit#slide=id.g306d851e53_0_429
+   
+   Attending: Rob, Scott, Nevan, Richard, Larry, Tim, Tobias, Mark, Alison, Gabriel, Yu, Jamie, Esen, Robert, Alex, Ryan, Christine, Tom
