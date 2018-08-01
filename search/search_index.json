@@ -47,7 +47,7 @@
         }, 
         {
             "location": "/01-August-2018/", 
-            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees:\n\n\nApologies:\n\n\nRPID Meeting Minutes\n\n\nE-RPID Proposal\n\n\n\n\nRecommended\n\n\nProposal: 1839013 Can be found on research.gov\n\n\n\n\nScience Gateways Research Center Briefing\n\n\n\n\nTomorrow 15:15 EDT\n\n\nRob and Yu will attend\n\n\nRob will introduce DOA and the RPID Testbed\n\n\nYu will talk about the test cases\n\n\n\n\n\n\n\n\nRDA Leadership Meeting\n\n\n\n\nSeptemeber 24-26, Troy, NY\n\n\n\n\nPreparing for IDW\n\n\n\n\nUsual suspect sessions\n\n\nUnusual suspects? \n\n\n\n\nAWS Services\n\n\n\n\nTufts AWS Account\n\n\nMove to Jetstream? \n\n\n\n\nOther Business\n\n\n\n\nTraining Materials\n\n\nUse Cases for RDA PID KI Principles\n\n\nEvaluation of these principles for SEADTrain\n\n\nOther items", 
+            "text": "RPID Meeting Agenda Items\n\n\nWednesday 13:00 EDT\nhttps://iu.zoom.us/j/300135894\n\n\nAttendees: Larry, Scott, Yu, Gabriel, Rob\n\n\nApologies: Alison\n\n\nRPID Meeting Minutes\n\n\nGabriel will no longer be avaialble to the RPID Project\n\n\n\n\nAll work transistioned to D2I student Kunalan\n\n\n3 VMs at AIST now holding data. Still using RPID testbed. \n\n\nhttps://github.com/Data-to-Insight-Center/RDA-PRAGMA-Data-Service/wiki/Welcome-to-PRAGMA-Data-Service-Prototype\n\n\nYu will talk to Gabriel about AWS account\n\n\n\n\nE-RPID Proposal\n\n\n\n\nRecommended\n\n\nProposal: 1839013 Can be found on research.gov\n\n\n\n\nScience Gateways Research Center Briefing\n\n\n\n\nTomorrow 15:15 EDT\n\n\nRob and Yu will attend\n\n\nRob will introduce DOA and the RPID Testbed\n\n\nYu will talk about the test cases\n\n\n\n\n\n\n\n\nRDA Leadership Meeting\n\n\n\n\nSeptemeber 24-26, Troy, NY\n\n\n\n\nPreparing for IDW\n\n\n\n\nUsual suspect sessions\n\n\nUnusual suspects? \n\n\nDemetri's Group extension Cross Domain WG\n\n\n5 Open Positions on the TAB\n\n\n\n\n\n\n\n\nAWS Services\n\n\n\n\nTufts AWS Account\n\n\nMove to Jetstream? \n\n\n\n\nOther Business\n\n\n\n\nTraining Materials\n\n\nUse Cases for RDA PID KI Principles\n\n\nEvaluation of these principles for SEADTrain\n\n\nNo call in two weeks from today. Next call August 29. \n\n\nOther items", 
             "title": "01-August-2018"
         }, 
         {
@@ -56,19 +56,24 @@
             "title": "RPID Meeting Agenda Items"
         }, 
         {
-            "location": "/01-August-2018/#attendees", 
+            "location": "/01-August-2018/#attendees-larry-scott-yu-gabriel-rob", 
             "text": "", 
-            "title": "Attendees:"
+            "title": "Attendees: Larry, Scott, Yu, Gabriel, Rob"
         }, 
         {
-            "location": "/01-August-2018/#apologies", 
+            "location": "/01-August-2018/#apologies-alison", 
             "text": "", 
-            "title": "Apologies:"
+            "title": "Apologies: Alison"
         }, 
         {
             "location": "/01-August-2018/#rpid-meeting-minutes", 
             "text": "", 
             "title": "RPID Meeting Minutes"
+        }, 
+        {
+            "location": "/01-August-2018/#gabriel-will-no-longer-be-avaialble-to-the-rpid-project", 
+            "text": "All work transistioned to D2I student Kunalan  3 VMs at AIST now holding data. Still using RPID testbed.   https://github.com/Data-to-Insight-Center/RDA-PRAGMA-Data-Service/wiki/Welcome-to-PRAGMA-Data-Service-Prototype  Yu will talk to Gabriel about AWS account", 
+            "title": "Gabriel will no longer be avaialble to the RPID Project"
         }, 
         {
             "location": "/01-August-2018/#e-rpid-proposal", 
@@ -87,7 +92,7 @@
         }, 
         {
             "location": "/01-August-2018/#preparing-for-idw", 
-            "text": "Usual suspect sessions  Unusual suspects?", 
+            "text": "Usual suspect sessions  Unusual suspects?   Demetri's Group extension Cross Domain WG  5 Open Positions on the TAB", 
             "title": "Preparing for IDW"
         }, 
         {
@@ -97,7 +102,7 @@
         }, 
         {
             "location": "/01-August-2018/#other-business", 
-            "text": "Training Materials  Use Cases for RDA PID KI Principles  Evaluation of these principles for SEADTrain  Other items", 
+            "text": "Training Materials  Use Cases for RDA PID KI Principles  Evaluation of these principles for SEADTrain  No call in two weeks from today. Next call August 29.   Other items", 
             "title": "Other Business"
         }, 
         {
