@@ -8,6 +8,6 @@ https://iu.zoom.us/my/rquick
 # RPID Meeting Minutes
 
 # ERPID
-   * Project Summary
+   * [Project Summary](https://github.com/rpidproject/rpid/blob/master/docs/ProjectSummary.md)
    * Project Description
       * Images
