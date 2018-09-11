@@ -1,4 +1,4 @@
-Overview:
+## Overview:
 The expansion of the research community's ability to collect and store data has grown much more rapidly
 than its ability to catalog, make accessible, and make use of data. Major challenges facing the scientific
 research enterprise are the basic problems of making data discoverable, accessible, and re-usable at
@@ -17,7 +17,7 @@ long-term use and reuse. The fabric of data services created within the Enhanced
 has potential to change the way experiments interact with data and to stimulate tool development that will
 increases the value of data by easing the technical hurdles for interoperability and reuse.
 
-Intellectual Merit:
+## Intellectual Merit:
 The proposed project will create a realization of both the PID-Centric data management (referred to as the
 Digital Object Architecture or DOA) and the FAIR data principles, creating a full, end-to-end reference
 implementation that demonstrates how such projects should be designed, implemented, and operated and
@@ -34,7 +34,7 @@ conduct their research. There is a particular opportunity to transform the reusa
 federal funding and transform the ease with which analyses of experimental or simulation data can be
 replicated and extended.
 
-Broader Impacts:
+## Broader Impacts:
 There have been tremendous advances in research in many diverse fields made possible by
 implementation of pieces of the DOA and FAIR-based systems for data accessibility and reuse. A full
 implementation of the concepts underlying PID-Centric data management could truly revolutionize interand
