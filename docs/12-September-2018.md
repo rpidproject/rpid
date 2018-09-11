@@ -1,6 +1,6 @@
 # RPID Meeting Agenda Items
-Wednesday 13:00 EDT
-https://iu.zoom.us/my/rquick
+   * Wednesday 13:00 EDT
+   * https://iu.zoom.us/my/rquick
    
 ## Attendees: 
 ## Apologies: 
