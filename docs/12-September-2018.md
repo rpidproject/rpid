@@ -8,12 +8,12 @@ https://iu.zoom.us/my/rquick
 # RPID Meeting Minutes
 
 ## ERPID Kickoff
-   * Begins 1 October 2018 ends 30 September 2020
-   * PI - Rob Quick
-   * Co-PIs - Larry Lannom and Marlon Pierce
    * [Project Summary](https://github.com/rpidproject/rpid/blob/master/docs/ProjectSummary.md)
    * [Project Description](https://github.com/rpidproject/rpid/blob/master/docs/ProjectSummary.md)
    * [References](https://github.com/rpidproject/rpid/blob/master/docs/References.md)
+      * Begins 1 October 2018 ends 30 September 2020
+      * PI - Rob Quick
+      * Co-PIs - Larry Lannom and Marlon Pierce
 
 ## RPID to ERPID Transistion
 
