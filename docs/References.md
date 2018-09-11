@@ -6,8 +6,7 @@ scientific data discovery and reuse: from vision to practical reality. In Procee
 2. David, P.A., 2008. The Historical Origins of 'Open Science': an essay on patronage,
 reputation and common agency contracting in the scientific revolution. Capitalism and
 Society, 3(2).
-3. World Data Systems, WDS Data Sharing Principles, 2015, https://www.icsuwds.
-org/files/WDS_Data_Sharing_Principles_2015.pdf
+3. World Data Systems, WDS Data Sharing Principles, 2015, https://www.icsuwds.org/files/WDS_Data_Sharing_Principles_2015.pdf
 4. Hey, T., Tansley, S. and Tolle, K.M., 2009. The fourth paradigm: data-intensive scientific
 discovery (Vol. 1). Redmond, WA: Microsoft research
 5. RPID Project Home, https://rpidproject.github.io/rpid/
@@ -47,7 +46,6 @@ Aysam Guerler, Jennifer Hillman-Jackson, Greg Von Kuster, Eric Rasche, Nicola So
 Nitesh Turaga, James Taylor, Anton Nekrutenko, and Jeremy Goecks. The Galaxy platform
 for accessible, reproducible and collaborative biomedical analyses: 2016 update. Nucleic
 Acids Research (2016) 44(W1): W3-W10 doi:10.1093/nar/gkw343
-2
 29. Galaxy Tool Shed, https://toolshed.g2.bx.psu.edu/repository
 30. Scholarworks Digital Repository, scholarworks.iu.edu
 31. Lawrence, K.A., Zentner, M., Wilkins‐Diehr, N., Wernert, J.A., Pierce, M., Marru, S. and
@@ -76,8 +74,7 @@ http://dx.doi.org/10.1145/2792745.2792774
 44. Dear Colleague Letter: Advancing Long-term Reuse of Scientific Data,
 https://www.nsf.gov/pubs/2018/nsf18060/nsf18060.jsp
 45. RPID Handle Service, http://rpid-handle.grid.iu.edu:8080/
-46. CTS-URN Mapping Document, https://github.com/rpidproject/ctshandles/
-blob/master/README.md
+46. CTS-URN Mapping Document, https://github.com/rpidproject/ctshandles/blob/master/README.md
 47. Apache Airavata Github Repository, https://github.com/apache/airavata
 48. Pierce, M., Marru, S., Demeler, B., Singh, R. and Gorbet, G., 2014, November. The apache
 airavata application programming interface: overview and evaluation with the UltraScan
