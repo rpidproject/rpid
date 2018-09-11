@@ -9,5 +9,5 @@ https://iu.zoom.us/my/rquick
 
 # ERPID Kickoff
    * [Project Summary](https://github.com/rpidproject/rpid/blob/master/docs/ProjectSummary.md)
-   * Project Description
-      * Images
+   * [Project Description](https://github.com/rpidproject/rpid/blob/master/docs/ProjectSummary.md)
+   * [References]
