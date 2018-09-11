@@ -8,6 +8,9 @@ https://iu.zoom.us/my/rquick
 # RPID Meeting Minutes
 
 ## ERPID Kickoff
+   * Begins 1 October 2018 ends 30 September 2020
+   * PI - Rob Quick
+   * Co-PIs - Larry Lannom and Marlon Pierce
    * [Project Summary](https://github.com/rpidproject/rpid/blob/master/docs/ProjectSummary.md)
    * [Project Description](https://github.com/rpidproject/rpid/blob/master/docs/ProjectSummary.md)
    * [References](https://github.com/rpidproject/rpid/blob/master/docs/References.md)
@@ -20,3 +23,12 @@ https://iu.zoom.us/my/rquick
 3. Assess use cases against PID Kernel Information guiding principles.  The PID Kernel Information WG of the RDA has produced set of principles for defining PID Kernel Information.  As the RPID use cases evaluated the benefits of PID Kernel Information in the absence of these core principles, select use cases (as they are able and willing) have offered to re-evaluate the benefits of the PID Kernel Information based on the core guiding principles.
 4. Evaluate the Collection API for its utility in supporting data provenance as part of PID Kernel Information.  This need is driven by the PRAGMA Rice Genomics use case. Publishable study anticipated as a  result. 
 5. Remain responsive to user community needs. 
+
+### New Use Cases and Collaboarators 
+   * New Co-PI - Marlon Pierce
+   * New Use cases - Galaxy and Science Gateways Research Center
+   
+## Major Items of Work
+1. Evaluate the Digital Object Interface Protocol (DOIP)
+2. Create and implement Mapping Services
+3. Create and deciminate educational materials
