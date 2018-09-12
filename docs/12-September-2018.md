@@ -9,7 +9,7 @@
 
 ## ERPID Kickoff
    * [Project Summary](https://github.com/rpidproject/rpid/blob/master/docs/ProjectSummary.md)
-   * [Project Description](https://github.com/rpidproject/rpid/blob/master/docs/ProjectSummary.md)
+   * [Project Description](https://github.com/rpidproject/rpid/blob/master/docs/ProjectDescription.md)
    * [References](https://github.com/rpidproject/rpid/blob/master/docs/References.md)
       * Begins 1 October 2018 ends 30 September 2020
       * PI - Rob Quick
