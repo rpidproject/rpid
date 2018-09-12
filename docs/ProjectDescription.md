@@ -49,8 +49,7 @@ beyond the fingertips of researchers, not quite obtainable due to multiple incon
 mechanism implementations, widely varying data access solutions, and no common interaction protocol
 for preforming standard operations on digital objects.
 
-Figure 1. The Digital Object Cloud end-to-end view. At one end is the user, at the other the data
-storage system.
+![alt text](https://github.com/rpidproject/rpid/blob/master/docs/ERPID-Figure1.png "Digital Object Cloud")
 
 We are currently leading a two-year pilot effort to create a testbed to implement some foundational
 elements of the DOA - funded by NSF award 1659310 - “CC* Storage: Robust Persistent Identification of
@@ -61,8 +60,7 @@ below, along with the new steps we propose to take in this project in implementi
 a full reference implementation of the DOA. All development proposed here is new work and not included
 in the scope of work of the current NSF award. Ongoing RPID work will be completed according to plan.
 
-Table 1: Core elements of the Digital Object Architecture, existing software implementations, status
-of already funded RPID work, and new additions to be done via the work proposed.
+![alt text](https://github.com/rpidproject/rpid/blob/master/docs/ERPID-Table1.png "Core Element Comparison")
 
 During the RPID project we built the two most important foundational elements of a DOA
 implementation. A Handle Service issues PIDs and provides resolution services, which consist of taking a
@@ -116,6 +114,7 @@ instance [24]). If this technology does in fact gain substantial adoption, then 
 additional funding from the NSF to operate this as a national service or look to other large NSF-funded
 cyberinfrastructure projects for ways to implement the services we are developing as production-quality
 services suitable for serving the entire population of NSF-funded researchers.
+
 ## Use Cases
 
 In this section we describe a number of projects that have agreed to the value of this work and to
@@ -217,7 +216,7 @@ testbed components. Indiana University will maintain the testbed for two years b
 period allowing continued testing. While the RPID testbed components have proved stable, during this
 extended lifetime support and maintenance will be done at best effort levels.
 
-Figure 2: Core elements of the proposed E-RPID project.
+![alt text](https://github.com/rpidproject/rpid/blob/master/docs/ERPID-Figure2.png "ERPID Core Elements")
 
 **Comparison to Related Work:** The work we propose is distinct from other, ongoing projects. Unlike
 the current CNRI- and DONA-led work [35], we focus on extending, deploying, operating existing software
@@ -234,7 +233,8 @@ the underlying information management needed for making decisions prior to netwo
 
 ## Milestones and Evaluation
 The proposed project milestones are given in Table 2.
-Table 2: Project milestones.
+
+![alt text](https://github.com/rpidproject/rpid/blob/master/docs/ERPID-Table2.png "Project Milestones")
 
 **Project Evaluation:** The project will be considered a success if the following goals are accomplished:
 (1) The current RPID is updated with the components necessary to create an end-to end DOA testbed.
