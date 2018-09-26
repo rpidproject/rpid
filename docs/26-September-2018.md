@@ -5,7 +5,7 @@
 Wednesday 14:00 ET 
 Zoom: https://iu.zoom.us/my/rquick 
    
-## Attendees: 
+## Attendees: Marina, Larry, Yu, Rob, Scott
 ## Apologies: Marlon
 
 ### New Staff Effort
@@ -33,6 +33,10 @@ Zoom: https://iu.zoom.us/my/rquick
    * Scott Teige will organize during ERPID
 
 ### Action Items
+   * Yu will send around slides.
+   * Rob, Scott and Yu will have a whiteboard session with Marina to bring her up to speed.
+   * Engagement with Galaxy and SGRC. Rob will follow up. 
+   * Rice Genomic representative should regularly attend. 
 
 
 
