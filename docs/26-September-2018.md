@@ -28,6 +28,9 @@ Zoom: https://iu.zoom.us/my/rquick
 ### Services
    * rpid-dtr.grid.iu.edu:8080
    * rpid-handle.grid.iu.edu:8000
+   * Status is available here: http://steige.grid.iu.edu/steige/textw.html
+   * Status image for handle: http://steige.grid.iu.edu/steige/status_handle-dev.png
+   * Status image for dtr: http://steige.grid.iu.edu/steige/status_dtr.png
 
 ### User Advisory Group
    * Scott Teige will organize during ERPID
