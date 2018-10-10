@@ -1,8 +1,8 @@
    
 # RPID Meeting Minutes
 
-Wednesday 14:00 ET 
-Zoom: https://iu.zoom.us/my/rquick 
+   * Wednesday 14:00 ET 
+   * Zoom: https://iu.zoom.us/my/rquick 
    
 ## Attendees: 
 ## Apologies: 
