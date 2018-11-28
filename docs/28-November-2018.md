@@ -3,8 +3,8 @@
    * Wednesday 14:00 ET 
    * Zoom: https://iu.zoom.us/j/917493592
    
-## Attendees: 
-## Apologies: 
+## Attendees: Larry, Marina, Yu, Scott, Rob
+## Apologies: Marlon
  
 ### Use Case Updates
    * SEADTrain 
