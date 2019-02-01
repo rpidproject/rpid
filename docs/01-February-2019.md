@@ -11,7 +11,7 @@
 
 ### Handle/DTR Service Update
    * Scott's operational report 
-   * Plans for Jetstream transistion - Allocation appoved for 100,000k US. This shoudl allow two VMs for 5 years. 
+   * Plans for Jetstream transistion - Allocation appoved for 100,000k US. This should allow two VMs for 5 years. 
    * Initial VMs up and accessible
    * Handle installed on Jetstream, not populated yet. 
 
