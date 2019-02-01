@@ -7,6 +7,7 @@
 ## Apologies: 
  
 ### Progress Report from Yu and Marina
+   * Mapping Service
 
 ### Handle/DTR Service Update
    * Scott's operational report 
