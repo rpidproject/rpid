@@ -28,3 +28,4 @@
       * Abstract deadline extended to 20-Feb
    * OSG All Hands Presentation
    * Nearing final report for original RPID Grant
+   * PRAGMA Poster upcoming
