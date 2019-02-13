@@ -3,7 +3,7 @@
    * Wednesday 14:00 ET 
    * Zoom: https://iu.zoom.us/my/rquick 
    
-## Attendees: 
+## Attendees: Marina, Scott, Yu, Rob, Larry
 ## Apologies: 
  
 ### Progress Report from Yu and Marina
