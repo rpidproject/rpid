@@ -9,6 +9,7 @@ extra_css:
 pages:
 - Home: 'index.md'
 - BiWeekly Meeting Agenda and Minutes:
+  - '08-May-2019': '08-May-2019.md'
   - '24-April-2019': '24-April-2019.md'
   - '27-March-2019': '27-March-2019.md'
   - '13-March-2019': '13-March-2019.md'
