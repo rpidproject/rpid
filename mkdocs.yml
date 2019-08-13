@@ -9,6 +9,7 @@ extra_css:
 pages:
 - Home: 'index.md'
 - BiWeekly Meeting Agenda and Minutes:
+  - '31-July-2019': '31-July-2019.md'
   - '17-July-2019': '17-July-2019.md'
   - '03-July-2019 - No Meeting': 'NoMeeting.md'
   - '19-June-2019': '19-June-2019.md'
