@@ -1,4 +1,4 @@
-++ Small Molecule Issolation Lattices Mapping to the PID Kernel Information Profile Recommended by the RDA PID Kernel Information Working Group
+## Small Molecule Issolation Lattices Mapping to the PID Kernel Information Profile Recommended by the RDA PID Kernel Information Working Group
 
 | PID KI Field | Form | Description | 
 |--------------|------|-------------|
