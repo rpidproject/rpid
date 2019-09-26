@@ -247,7 +247,88 @@
           <div role="main">
             <div class="section">
               
-                <p>| PID KI Field | Form | Description | </p>
+                <p>++ Small Molecule Issolation Lattices Mapping to the PID Kernel Information Profile Recommended by the RDA PID Kernel Information Working Group</p>
+<table>
+<thead>
+<tr>
+<th>PID KI Field</th>
+<th>Form</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PID</td>
+<td>Handle</td>
+<td>Global identifier for the molecular model data</td>
+</tr>
+<tr>
+<td>RPDKIProfileType</td>
+<td>Handle</td>
+<td>PID for this profile 11723/60acd5b32326dd7e2612</td>
+</tr>
+<tr>
+<td>digitalObjectType</td>
+<td>Handle</td>
+<td>Points to type definition for this type of object</td>
+</tr>
+<tr>
+<td>digitalObjectLocation</td>
+<td>URL</td>
+<td>Location of the file holding the molecular model to be used</td>
+</tr>
+<tr>
+<td>etag</td>
+<td>HexString</td>
+<td>Checksum of the molecular model data contents</td>
+</tr>
+<tr>
+<td>lastModified</td>
+<td>ISO 8601 Date</td>
+<td>Date the molecular was last modified. Applicable only if the object has been modified from it's original</td>
+</tr>
+<tr>
+<td>creationDate</td>
+<td>ISO 8601 Date</td>
+<td>Date the molecular model data was created</td>
+</tr>
+<tr>
+<td>version</td>
+<td>String</td>
+<td>If applicable, not necessary in the SMILES use case</td>
+</tr>
+<tr>
+<td>wasDerivedFrom</td>
+<td>Handle</td>
+<td>Applicable if a transformation of a molecular model into another, an update of a model resulting in a new one, or the construction of a new model based on a pre-existing entity</td>
+</tr>
+<tr>
+<td>specializationOf</td>
+<td>Handle</td>
+<td>Model is a specialization of another that shares all aspects of the latter, and additional presents more specific aspects of the same thing as the latter</td>
+</tr>
+<tr>
+<td>wasRevisionOf</td>
+<td>Handle</td>
+<td>A derivation for which the resulting model is a revised version of some original</td>
+</tr>
+<tr>
+<td>hadPrimarySource</td>
+<td>Handle</td>
+<td>A primary source for a model refers to something produced by some agent with direct experience and knowledge about the model, at the time of the model's study, without benefit from hindsight</td>
+</tr>
+<tr>
+<td>wasQuotedFrom</td>
+<td>Handle</td>
+<td>Used for the repeat of (some or all of) a model by someone who may or may not be its original creator, most likely not applicable to the SMILES use case</td>
+</tr>
+<tr>
+<td>alternateOf</td>
+<td>Handle</td>
+<td>Model present aspects of the same thing. These aspects may be the same or different, and the alternate models may or may not overlap in time</td>
+</tr>
+</tbody>
+</table>
               
             </div>
           </div>
