@@ -13,6 +13,16 @@
       * http://149.165.169.46:8080/
       * https://handle.grid.iu.edu:8000
    * DOIP Testing
+   * Setup DSPACE for testing purposes. Will enable Mapper to make repository connections
+   
+   http://149.165.156.247:8080/xmlui/
+   http://149.165.156.247:8080/jspui/
+   http://149.165.156.247:8080/oai
+ 
+   Here is REST API to that dspace repository
+   http://149.165.156.247:8080/rest
+ 
+ 
   
 ### Education Materials
    * Talked with Christophe Blanchi from DONA about teaming up. 
