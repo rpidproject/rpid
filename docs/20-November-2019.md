@@ -18,5 +18,5 @@
    
 ### Presentations, Proposals, Papers, Reports, and AOB
    * Possible Hackathon Event in January (Hamburg)
-      * [DRAFT Hackathon Document][https://docs.google.com/document/d/1y8OXWTeDmJctbXNOv0N1Eekrx7JUB9TdtG0r2INkqIg/edit]
+      * [DRAFT Hackathon Document](https://docs.google.com/document/d/1y8OXWTeDmJctbXNOv0N1Eekrx7JUB9TdtG0r2INkqIg/edit)
    * Big Data Hubs presentation in April
