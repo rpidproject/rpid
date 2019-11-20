@@ -12,6 +12,7 @@
    
 ### RDA Adoption Project
    * Awarded will run 1-January to 30 June
+   * [Proposal Text](https://github.com/rpidproject/rpid/blob/master/docs/RDA%20Adoption%20Proposal-Final.pdf)
    * We will integrate the Small Molecule Isolation Lattices (SMILES) Material Sciences project currently hosted on the Science and Engineering Application Grid (SEAGrid) Science Gateway with the Enhanced Robust Identification of Data (E-RPID) testbed services to create a programmatic implementation of the FAIR (Findable, Accessible, Interoperable, Reusable) data principles.
    * Additional 0.25 effort from SGRC and 0.10 effort from RDS (added to Marina's replacement)
    
