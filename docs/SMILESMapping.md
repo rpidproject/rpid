@@ -7,7 +7,7 @@
 | digitalObjectType | Handle | Points to type definition for this type of object |
 | digitalObjectLocation | URL | Location of the file holding the molecular model to be used |
 | etag | HexString | Checksum of the molecular model data contents |
-| lastModified | ISO 8601 Date | Date the molecular was last modified. Applicable only if the object has been modified from it's original | 
+| lastModified | ISO 8601 Date | Date the molecular data was last modified. Applicable only if the object has been modified from it's original | 
 | creationDate | ISO 8601 Date | Date the molecular model data was created |
 | version | String | If applicable, not necessary in the SMILES use case |
 | wasDerivedFrom | Handle | Applicable if a transformation of a molecular model into another, an update of a model resulting in a new one, or the construction of a new model based on a pre-existing entity |
