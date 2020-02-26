@@ -2,12 +2,13 @@
    * Wednesday February, 26 2020 14:00 ET 
    * Video Conference Coordinates: [Zoom Link](https://iu.zoom.us/my/rquick)
    
-## Attendees: 
-## Apologies: 
+## Attendees: Gaungchen, Sudhakar, Rob, Yu
+## Apologies: Larry
    
 ### Progress Report on Services from Yu
    * Service status
    * Has the port 9000 issue been resolved? 
+      * Guangchen and Yu working on this. 
    
 ### RDA Adoption Project
    * SEAGrid Testbed available at rpid.seagrid.org
