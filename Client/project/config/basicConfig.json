@@ -1,0 +1,18 @@
+{
+	"Handle System" :
+	{
+		"API URL" : "http://149.165.168.252:8000/api/handles/",
+		"prefix" : 11723,
+		"private key file" : "/path/admpriv.bin",
+		"private key file password" : "password",
+		"handle admin identifier" : "0.NA/11723"
+	},
+	"DTR DOIP" :
+	{
+		"InetAddress" : "149.165.169.46",
+		"serviceID" : "20.500.123/service",
+		"port" : 9000,
+		"uesrname" : "username",
+		"password" : "password"
+	}
+}

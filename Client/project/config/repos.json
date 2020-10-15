@@ -1,0 +1,37 @@
+{
+	"repo list" :
+	[
+		{
+			"repo name" : "dspace",
+			"repo description" : "ERPID test DSpace",
+			"repo host" : "http://34.214.32.90:8080/",
+			"repo type" : "rest",
+			"repo username" : "luoyu@dspace",
+			"repo password" : "dspace"
+		},
+		{
+			"repo name" : "fedora",
+			"repo description" : "fedora repository",
+			"repo host" : "http://54.213.12.174:8080/fcrepo-webapp-4.4.0/rest/",
+			"repo type" : "fedora",
+			"repo username" : "username",
+			"repo password" : "password"
+		},
+		{
+			"repo name" : "SEADTrain Github",
+			"repo description" : "SEADTrain Github",
+			"repo host" : "api.github.com",
+			"repo type" : "github",
+			"repo username" : "username",
+			"repo password" : "password"
+		},
+		{
+			"repo name" : "some_repo",
+			"repo description" : "Some repository",
+			"repo host" : "some.repo.com",
+			"repo type" : "",
+			"repo username" : "username",
+			"repo password" : "password"
+		}
+	]
+}

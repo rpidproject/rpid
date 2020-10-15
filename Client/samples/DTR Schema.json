@@ -1,0 +1,17 @@
+{
+	"type": "AirboxSensorObject",
+	"attributes": 
+	{
+		"content": 
+		{
+			"id": "",
+			"name": "Sensor Data",
+			"description": "this is the description",
+			"profile": 
+			[
+				{"identifier": "11723/9dbfb029092e96171074", "value": "PM2.5"},
+				{"identifier": "11723/22dde27488f42c5872e5", "value": "test_v1"}
+			]
+		}
+	}
+}

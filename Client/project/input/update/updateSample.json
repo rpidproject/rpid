@@ -1,0 +1,19 @@
+{
+	"PID" : "11723/c7c84643-db49-47ed-9dc4-d83076466526",
+	"PID KI" : [
+		{
+		"type" : "DigitalObjectPolicy",
+		"value" : "2"
+		}
+	],
+	"Cordra" : [
+		{
+			"identifier" : "test/22dde27488f42c5872e5",
+			"value" : "luoyu"
+		},
+		{
+			"identifier" : "name",
+			"value" : "luoyu"
+		}
+	]
+}
